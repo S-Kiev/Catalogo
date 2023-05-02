@@ -1,0 +1,65 @@
+/* Establecer el tamaño máximo del contenedor */
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+/* Redimensionar la imagen del logo en pantallas pequeñas */
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+@media screen and (max-width: 768px) {
+  .logo {
+    height: 3em;
+    padding: 0.5em;
+  }
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.botones {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.botones button {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 0 5px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  font-weight: bold;
+}
+
+.purple {
+  background-color: rgb(31, 184, 211);
+}
+
+.green {
+  background-color: rgb(147, 38, 190);
+}
+
+@media (max-width: 767px) {
+  .botones button {
+    margin-bottom: 2.2rem;
+  }
+}
+
+
+

@@ -1,0 +1,72 @@
+.default {
+  margin: auto;
+  margin-top: 8rem;
+  border-collapse: collapse;
+  border: 2px solid black;
+  font-size: 1em;
+  font-weight: bold;
+  width: 90%;
+}
+
+@media screen and (max-width: 768px) {
+  .default {
+    font-size: 0.8em;
+  }
+
+  .default th,
+  .default td {
+    padding: 8px 10px;
+  }
+}
+
+  
+  .default thead {
+    background-color: #333;
+    color: #fff;
+    text-align: left;
+  }
+  
+  
+  .default tbody tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .default tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  }
+  
+  .default tbody tr:last-of-type {
+    border-bottom: 2px solid #333;
+  }
+
+  .default th,
+.default td {
+  padding: 4px 5px;
+  text-align: center;
+}
+
+.default th:nth-child(1),
+.default td:nth-child(1) {
+  width: 15%;
+}
+
+.default th:nth-child(2),
+.default td:nth-child(2) {
+  width: 20%;
+}
+
+.default th:nth-child(3),
+.default td:nth-child(3) {
+  width: 20%;
+}
+
+.default th:nth-child(4),
+.default td:nth-child(4) {
+  width: 25%;
+}
+
+.default th:nth-child(5),
+.default td:nth-child(5) {
+  width: 20%;
+}
+  

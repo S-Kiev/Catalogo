@@ -1,0 +1,408 @@
+[
+    {
+      "Id" : 1,
+       "Nombre" : "Colgate",
+       "Descripcion" : "",
+       "Precio" : 560,
+       "PrecioBase" : 480,
+       "Cantidad" : 0,
+       "Imagen" : "../src/imagenes/pasta-dental-colgate-maxima-proteccion-anticaries-50-gr.jpg"
+    },
+    {
+        "Id" : 2,
+        "Nombre" : "Tiras Pantene",
+        "Descripcion" : "Shampoo y Acondicionador",
+        "Precio" : 130,
+        "PrecioBase" : 120,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/5f5fab6726736.jpeg"
+     },
+     {
+        "Id" : 3,
+        "Nombre" : "Jugos Rinde 2",
+        "Descripcion" : "Sabores",
+        "Precio" : 190,
+        "PrecioBase" : 170,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/JugosRinde2.jpg"
+     },
+     {
+        "Id" : 4,
+        "Nombre" : "Omeoprazol",
+        "Descripcion" : "30 Capsulas",
+        "Precio" : 160,
+        "PrecioBase" : 120,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Omeoprazol.png"
+     },
+     {
+        "Id" : 5,
+        "Nombre" : "Buscapina",
+        "Descripcion" : "6 Blisters de 10 Capsulas",
+        "Precio" : 700,
+        "PrecioBase" : 600,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Buscapina.png"
+     },
+     {
+        "Id" : 6,
+        "Nombre" : "Blister",
+        "Descripcion" : "10 Capsulas",
+        "Precio" : 125,
+        "PrecioBase" : 100,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Buscapina.png"
+     },
+     {
+        "Id" : 7,
+        "Nombre" : "Paracetamol",
+        "Descripcion" : "2 Blisters de 10 Capsulas",
+        "Precio" : 130,
+        "PrecioBase" : 90,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Paracetamol.png"
+     },
+     {
+        "Id" : 8,
+        "Nombre" : "Dorixina",
+        "Descripcion" : "8 Capsulas",
+        "Precio" : 80,
+        "PrecioBase" : 57,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Dorixina.png"
+     },
+     {
+        "Id" : 9,
+        "Nombre" : "Amoxidal",
+        "Descripcion" : "8 Capsulas",
+        "Precio" : 75,
+        "PrecioBase" : 50,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Amoxidal.png"
+     },
+     {
+        "Id" : 10,
+        "Nombre" : "Actron Plus",
+        "Descripcion" : "2 Blisters de 8 Capsulas",
+        "Precio" : 200,
+        "PrecioBase" : 160,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/ActronPlus.png"
+     },
+     {
+        "Id" : 11,
+        "Nombre" : "Blister",
+        "Descripcion" : "8 Capsulas",
+        "Precio" : 110,
+        "PrecioBase" : 80,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/ActronPlus.png"
+     },
+     {
+        "Id" : 12,
+        "Nombre" : "Actron 400",
+        "Descripcion" : "2 Blisters de 10 Capsulas",
+        "Precio" : 120,
+        "PrecioBase" : 90,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Actron400.png"
+     },
+     {
+        "Id" : 13,
+        "Nombre" : "Blister",
+        "Descripcion" : "10 Capsulas",
+        "Precio" : 65,
+        "PrecioBase" : 45,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Actron400.png"
+     },
+     {
+        "Id" : 14,
+        "Nombre" : "Actron 600",
+        "Descripcion" : "2 Blisters de 10 Capsulas",
+        "Precio" : 220,
+        "PrecioBase" : 185,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Actron600.png"
+     },
+     {
+        "Id" : 15,
+        "Nombre" : "Blister",
+        "Descripcion" : "10 Capsulas",
+        "Precio" : 120,
+        "PrecioBase" : 93,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Actron600.png"
+     },
+     {
+        "Id" : 16,
+        "Nombre" : "Diclofenac",
+        "Descripcion" : "10 Capsulas",
+        "Precio" : 80,
+        "PrecioBase" : 40,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Diclofenac.png"
+     },
+     {
+        "Id" : 17,
+        "Nombre" : "Conford",
+        "Descripcion" : "12 Unidades",
+        "Precio" : 330,
+        "PrecioBase" : 300,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/AfeitadoraConford.png"
+     },
+     {
+        "Id" : 18,
+        "Nombre" : "Uvasal-Caja",
+        "Descripcion" : "15 Sobres Dobles",
+        "Precio" : 300,
+        "PrecioBase" : 200,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Uvasal.png"
+     },
+     {
+        "Id" : 19,
+        "Nombre" : "Uvasal-Sobre",
+        "Descripcion" : "Sobre Doble",
+        "Precio" : 20,
+        "PrecioBase" : 14,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Uvasal.png"
+     },
+     {
+        "Id" : 20,
+        "Nombre" : "Alikal-Caja",
+        "Descripcion" : "30 Sobres",
+        "Precio" : 450,
+        "PrecioBase" : 370,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Alikal.png"
+     },
+     {
+        "Id" : 21,
+        "Nombre" : "Alikal-Sobre",
+        "Descripcion" : "",
+        "Precio" : 20,
+        "PrecioBase" : 13,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Alikal.png"
+     },
+     {
+        "Id" : 22,
+        "Nombre" : "Perifar Flex",
+        "Descripcion" : "8 Unidades",
+        "Precio" : 150,
+        "PrecioBase" : 150,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/PerifarFlex.png"
+     },
+     {
+        "Id" : 23,
+        "Nombre" : "Perifar Migra",
+        "Descripcion" : "8 Unidades",
+        "Precio" : 170,
+        "PrecioBase" : 170,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/PerifarMigra.png"
+     },
+     {
+        "Id" : 24,
+        "Nombre" : "Aspirina-Blister",
+        "Descripcion" : "10 Unidades",
+        "Precio" : 40,
+        "PrecioBase" : 30,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Aspirina.png"
+     },
+     {
+        "Id" : 25,
+        "Nombre" : "Dolex 500",
+        "Descripcion" : "8 Unidades",
+        "Precio" : 65,
+        "PrecioBase" : 50,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Dolex500.png"
+     },
+     {
+        "Id" : 26,
+        "Nombre" : "Dolex 650",
+        "Descripcion" : "8 Unidades",
+        "Precio" : 80,
+        "PrecioBase" : 65,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Dolex650.png"
+     },
+     {
+        "Id" : 27,
+        "Nombre" : "Sertal",
+        "Descripcion" : "10 Unidades",
+        "Precio" : 130,
+        "PrecioBase" : 100,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Sertal.png"
+     },
+     {
+        "Id" : 28,
+        "Nombre" : "ACF4",
+        "Descripcion" : "8 Unidades",
+        "Precio" : 140,
+        "PrecioBase" : 110,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/ACF4.png"
+     },
+     {
+        "Id" : 29,
+        "Nombre" : "Novemina",
+        "Descripcion" : "8 Unidades",
+        "Precio" : 80,
+        "PrecioBase" : 80,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Novemina.png"
+     },
+     {
+        "Id" : 30,
+        "Nombre" : "Encen. Berlina",
+        "Descripcion" : "50 Unidades",
+        "Precio" : 400,
+        "PrecioBase" : 300,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Berlina.png"
+     },
+     {
+        "Id" : 31,
+        "Nombre" : "Encen. Bic",
+        "Descripcion" : "12 Unidades",
+        "Precio" : 400,
+        "PrecioBase" : 360,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Bic.png"
+     },
+     {
+        "Id" : 32,
+        "Nombre" : "Chiclet Beldent",
+        "Descripcion" : "20 Unidades, Negro, Azul y Rosa",
+        "Precio" : 220,
+        "PrecioBase" : 190,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Beldent.png"
+     },
+     {
+        "Id" : 33,
+        "Nombre" : "Gotita",
+        "Descripcion" : "6 Unidades",
+        "Precio" : 250,
+        "PrecioBase" : 210,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Gotita.png"
+     },
+     {
+        "Id" : 34,
+        "Nombre" : "Eccole",
+        "Descripcion" : "6 Unidades",
+        "Precio" : 660,
+        "PrecioBase" : 600,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Eccole.png"
+     },
+     {
+        "Id" : 35,
+        "Nombre" : "Desodorante Rexona",
+        "Descripcion" : "",
+        "Precio" : 90,
+        "PrecioBase" : 80,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/DesodoranteRexona.png"
+     },
+     {
+        "Id" : 36,
+        "Nombre" : "Desodorante Dove",
+        "Descripcion" : "",
+        "Precio" : 80,
+        "PrecioBase" : 75,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/DesodoranteDove.png"
+     },
+     {
+        "Id" : 37,
+        "Nombre" : "Desodorante Axe",
+        "Descripcion" : "",
+        "Precio" : 90,
+        "PrecioBase" : 80,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/DesodoranteAxe.png"
+     },
+     {
+        "Id" : 38,
+        "Nombre" : "Rexona Odorono",
+        "Descripcion" : "",
+        "Precio" : 50,
+        "PrecioBase" : 35,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/DesodoranteOdorono.png"
+     },
+     {
+        "Id" : 39,
+        "Nombre" : "Javones Dove",
+        "Descripcion" : "6 Unidades",
+        "Precio" : 240,
+        "PrecioBase" : 220,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/JavonDove.png"
+     },
+     {
+        "Id" : 40,
+        "Nombre" : "GIF - Cigarrillo",
+        "Descripcion" : "",
+        "Precio" : 500,
+        "PrecioBase" : 440,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/GIF.png"
+     },
+     {
+        "Id" : 41,
+        "Nombre" : "GIF - Medio Carton",
+        "Descripcion" : "",
+        "Precio" : 260,
+        "PrecioBase" : 220,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/GIF.png"
+     },
+     {
+        "Id" : 42,
+        "Nombre" : "51 - Cigarillos",
+        "Descripcion" : "",
+        "Precio" : 350,
+        "PrecioBase" : 280,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/51.png"
+     },
+     {
+        "Id" : 43,
+        "Nombre" : "Coronado - Cigarillos",
+        "Descripcion" : "",
+        "Precio" : 1100,
+        "PrecioBase" : 1000,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Coronado.png"
+     },
+     {
+        "Id" : 44,
+        "Nombre" : "Coronado - Medio Carton",
+        "Descripcion" : "",
+        "Precio" : 600,
+        "PrecioBase" : 500,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Coronado.png"
+     },
+     {
+        "Id" : 45,
+        "Nombre" : "Coronado - Cajilla",
+        "Descripcion" : "",
+        "Precio" : 120,
+        "PrecioBase" : 100,
+        "Cantidad" : 0,
+        "Imagen" : "../src/imagenes/Coronado.png"
+     }
+
+]
