@@ -86,7 +86,17 @@
   color: white;
 }
 
+.card button[value="+"] {
+  background-color: rgb(16, 136, 16);
+  border-radius: 20%;
+  width: 15%;
+}
 
+.card button[value="-"] {
+  background-color: rgb(219, 28, 28);
+  border-radius: 20%;
+  width: 15%;
+}
 
 .card input[type="number"]::-webkit-outer-spin-button,
 .card input[type="number"]::-webkit-inner-spin-button {
