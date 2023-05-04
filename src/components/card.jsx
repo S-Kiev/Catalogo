@@ -101,7 +101,7 @@ const Card = React.forwardRef((props, ref) => {
   const resetear=()=>{
     setCantidad(0);
     setGanancia(0);
-    setPrecioVenta(0);
+    setPrecioVenta(props.Precio);
     setReposicion(0);
     setSubTotal(0);
   }

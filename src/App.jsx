@@ -5,6 +5,7 @@ import { PHONE_NUMBER } from '../env'
 import Buscador from './components/buuscador'
 import Card from './components/card'
 import TablaVentas from './components/tabla'
+import BarcodeScanner from './components/lectorQR'
 
 function App() {
   const [mensaje, setMensaje] = useState("")
@@ -106,8 +107,32 @@ function App() {
       tablaVentas && tablaVentas.scrollIntoView({ behavior: "smooth" });
     }, 100);
   };
+  const recibirProductoPorCodigo = (id) => {
+    console.log(id)
+    const producto = productos.find(product => product.Id === id);
+    console.log(producto)
+  
+    const nuevaVenta = { 
+      Producto : id, 
+      Cantidad : 1, 
+      PrecioVenta: producto.Precio, 
+      SubTotal : producto.Precio, 
+      Ganancia : (producto.Precio - producto.PrecioBase), 
+      Reposicion : producto.PrecioBase
+    };
+  
+    if (producto) {
+      setVentas([...ventas, nuevaVenta]);
+      handleCalcularTotal()
+      handleCalcularGanancia()
+      handleCalcularReposicion()
+    }
+    
+    setVentaActual(nuevaVenta);
+  }
   
 
+  //<BarcodeScanner onScan={recibirProductoPorCodigo} />
   
   return (
     <div className="App">
