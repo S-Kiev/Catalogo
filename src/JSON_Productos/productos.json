@@ -306,6 +306,24 @@
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/1/51597_10.jpg"
      },
      {
+        "Id" : 54,
+        "Nombre" : "Web-C",
+        "Descripcion" : "5 Unidades",
+        "Precio" : 120,
+        "PrecioBase" : 94,
+        "Cantidad" : 0,
+        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/c385976bc54d78dff661f3a8d562b253/8/9/89115_10.jpg"
+     },
+     {
+        "Id" : 55,
+        "Nombre" : "Web-C Comprimidos",
+        "Descripcion" : "8 Unidades",
+        "Precio" : 90,
+        "PrecioBase" : 62,
+        "Cantidad" : 0,
+        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/7/7/77398_10.jpg"
+     },
+     {
         "Id" : 30,
         "Nombre" : "Encen. Berlina",
         "Descripcion" : "50 Unidades",
