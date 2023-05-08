@@ -61,18 +61,24 @@ function App() {
   const recibirVenta = (productoVendido) => {
     const { Producto, Cantidad, PrecioVenta, SubTotal, Ganancia, Reposicion } = productoVendido;
     const nuevaVenta = { Producto, Cantidad, PrecioVenta, SubTotal, Ganancia, Reposicion };
+
+    console.log(productoVendido)
   
     // Verificar si el producto ya existe en el array de ventas
     const productoExistente = ventas.find(venta => venta.Producto === Producto);
+
+    console.log(productoExistente)
   
     if (productoExistente) {
       // Si el producto ya existe, reemplazarlo en el array de ventas
       const ventasActualizadas = ventas.map(venta => {
         if (venta.Producto === Producto) {
+          console.log(nuevaVenta)
           return nuevaVenta;
         }
         return venta;
       });
+      console.log(ventasActualizadas)
       setVentas(ventasActualizadas);
       handleCalcularTotal()
       handleCalcularGanancia()
@@ -87,6 +93,8 @@ function App() {
   
     setVentaActual(nuevaVenta);
   };
+
+
 
   const handleEliminarVenta = (id) => {
     setVentas(ventas.filter(venta => venta.Producto !== id));
@@ -107,38 +115,16 @@ function App() {
       tablaVentas && tablaVentas.scrollIntoView({ behavior: "smooth" });
     }, 100);
   };
-  const recibirProductoPorCodigo = (id) => {
-    console.log(id)
-    const producto = productos.find(product => product.Id === id);
-    console.log(producto)
   
-    const nuevaVenta = { 
-      Producto : id, 
-      Cantidad : 1, 
-      PrecioVenta: producto.Precio, 
-      SubTotal : producto.Precio, 
-      Ganancia : (producto.Precio - producto.PrecioBase), 
-      Reposicion : producto.PrecioBase
-    };
-  
-    if (producto) {
-      setVentas([...ventas, nuevaVenta]);
-      handleCalcularTotal()
-      handleCalcularGanancia()
-      handleCalcularReposicion()
-    }
-    
-    setVentaActual(nuevaVenta);
-  }
-  
+  //<BarcodeScanner recibirVenta={recibirVenta}/>
 
-  //<BarcodeScanner onScan={recibirProductoPorCodigo} />
   
   return (
     <div className="App">
       <Buscador handleSearch={handleSearch}/>
 
 
+      
       <div className='card-container'>
         {productosFiltrados.map((producto)=>(
           <Card ref={hijoRef} key={producto.Id} Id={producto.Id} Nombre={producto.Nombre} Precio={producto.Precio} PrecioBase={producto.PrecioBase} Imagen={producto.Imagen} recibirVenta={recibirVenta} eliminarVenta={handleEliminarVenta} ventas={ventas}/>
