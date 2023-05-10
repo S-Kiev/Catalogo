@@ -127,7 +127,7 @@ function App() {
       
       <div className='card-container'>
         {productosFiltrados.map((producto)=>(
-          <Card ref={hijoRef} key={producto.Id} Id={producto.Id} Nombre={producto.Nombre} Precio={producto.Precio} PrecioBase={producto.PrecioBase} Imagen={producto.Imagen} recibirVenta={recibirVenta} eliminarVenta={handleEliminarVenta} ventas={ventas}/>
+          <Card ref={hijoRef} key={producto.Id} Id={producto.Id} Descripcion={producto.Descripcion} Nombre={producto.Nombre} Precio={producto.Precio} PrecioBase={producto.PrecioBase} Imagen={producto.Imagen} recibirVenta={recibirVenta} eliminarVenta={handleEliminarVenta} ventas={ventas}/>
           ))
         }
       </div>

@@ -116,7 +116,8 @@ const Card = React.forwardRef((props, ref) => {
     <div className="card" key={props.Id}>
       <h2>{props.Nombre}</h2>
       <img src={props.Imagen} alt={props.Nombre} />
-      <p>${props.Precio}</p>
+      <h2>${props.Precio}</h2>
+      <h3>{props.Descripcion}</h3>
       <p>Cantidad:</p>
       <button value="-" onClick={restar} />
       <input type="number" value={cantidad} onChange={restar} />
