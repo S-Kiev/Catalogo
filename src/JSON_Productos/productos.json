@@ -128,14 +128,6 @@
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/4/54139_10.jpg"
      },
      {
-        "Id" : 17,
-        "Nombre" : "Conford",
-        "Descripcion" : "12 Unidades",
-        "Precio" : 330,
-        "PrecioBase" : 300,
-        "Imagen" : "https://dojiw2m9tvv09.cloudfront.net/37792/product/8713180795.jpg"
-     },
-     {
         "Id" : 18,
         "Nombre" : "Uvasal-Caja",
         "Descripcion" : "15 Sobres Dobles",
@@ -294,6 +286,46 @@
         "Precio" : 220,
         "PrecioBase" : 190,
         "Imagen" : "https://res.cloudinary.com/prixz/image/upload/d_default_product_txh9zg.svg,w_500,q_auto/items/7501008485033.jpg"
+     },
+     {
+        "Id" : 17,
+        "Nombre" : "Conford",
+        "Descripcion" : "12 Unidades",
+        "Precio" : 330,
+        "PrecioBase" : 300,
+        "Imagen" : "https://dojiw2m9tvv09.cloudfront.net/37792/product/8713180795.jpg"
+     },
+     {
+        "Id" : 61,
+        "Nombre" : "Mayonesa Hellmann's",
+        "Descripcion" : "30 Unidades",
+        "Precio" : 750,
+        "PrecioBase" : 650,
+        "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P051782-1.jpg?20220930211951,Mayonesa-HELLMANN%27S-118-gr-en-Tienda-Inglesa"
+     },
+     {
+        "Id" : 62,
+        "Nombre" : "Paquete Hellmann's",
+        "Descripcion" : "1 Unidad",
+        "Precio" : 28,
+        "PrecioBase" : 22,
+        "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P051782-1.jpg?20220930211951,Mayonesa-HELLMANN%27S-118-gr-en-Tienda-Inglesa"
+     },
+     {
+        "Id" : 63,
+        "Nombre" : "Mayonesa Uruguay",
+        "Descripcion" : "20 Unidades",
+        "Precio" : 500,
+        "PrecioBase" : 400,
+        "Imagen" : "https://mediato.com.uy/imagenes/img_contenido/productos/a/953CO.jpg"
+     },
+     {
+        "Id" : 64,
+        "Nombre" : "Paquete Uruguay",
+        "Descripcion" : "1 Unidad",
+        "Precio" : 30,
+        "PrecioBase" : 20,
+        "Imagen" : "https://f.fcdn.app/imgs/5553b2/suchinasa.com/suchuy/3bbe/original/catalogo/9917_9917_1/1920-1200/mayonesa-uruguay-2-90kg-mayonesa-uruguay-2-90kg.jpg"
      },
      {
         "Id" : 30,
