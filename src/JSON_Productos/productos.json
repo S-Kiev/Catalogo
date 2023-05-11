@@ -24,6 +24,158 @@
         "Imagen" : "https://americadist.com.ar/images/product_image/3308/0?fit=fill&w=1080&h=1080"
      },
      {
+        "Id" : 17,
+        "Nombre" : "Conford",
+        "Descripcion" : "12 Unidades",
+        "Precio" : 330,
+        "PrecioBase" : 300,
+        "Imagen" : "https://dojiw2m9tvv09.cloudfront.net/37792/product/8713180795.jpg"
+     },
+     {
+        "Id" : 61,
+        "Nombre" : "Mayonesa Hellmann's",
+        "Descripcion" : "20 Unidades",
+        "Precio" : 480,
+        "PrecioBase" : 420,
+        "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P051782-1.jpg?20220930211951,Mayonesa-HELLMANN%27S-118-gr-en-Tienda-Inglesa"
+     },
+     {
+        "Id" : 62,
+        "Nombre" : "Paquete Hellmann's",
+        "Descripcion" : "1 Unidad",
+        "Precio" : 25,
+        "PrecioBase" : 14,
+        "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P051782-1.jpg?20220930211951,Mayonesa-HELLMANN%27S-118-gr-en-Tienda-Inglesa"
+     },
+     {
+        "Id" : 67,
+        "Nombre" : "Ketchup Hellmann's",
+        "Descripcion" : "30 Unidades",
+        "Precio" : 680,
+        "PrecioBase" : 650,
+        "Imagen" : "https://assets.vtex.app/unsafe/660x660/center/middle/https%3A%2F%2Ftatauy.vtexassets.com%2Farquivos%2Fids%2F527567%2FAderezo-Ketchup-HELLMAN-S-Sachet-60-G-1-3281.jpg%3Fv%3D1769965405"
+     },
+     {
+        "Id" : 62,
+        "Nombre" : "Paquete Hellmann's",
+        "Descripcion" : "1 Unidad",
+        "Precio" : 25,
+        "PrecioBase" : 22,
+        "Imagen" : "https://assets.vtex.app/unsafe/660x660/center/middle/https%3A%2F%2Ftatauy.vtexassets.com%2Farquivos%2Fids%2F527567%2FAderezo-Ketchup-HELLMAN-S-Sachet-60-G-1-3281.jpg%3Fv%3D1769965405"
+     },
+     {
+        "Id" : 30,
+        "Nombre" : "Encen. Berlina",
+        "Descripcion" : "50 Unidades",
+        "Precio" : 400,
+        "PrecioBase" : 300,
+        "Imagen" : "https://d1yyxems0bt9th.cloudfront.net/content/images/thumbs/0035488_sisvendfotosg1098jpg_600.jpeg"
+     },
+     {
+        "Id" : 31,
+        "Nombre" : "Bic Grande",
+        "Descripcion" : "12 Unidades",
+        "Precio" : 400,
+        "PrecioBase" : 360,
+        "Imagen" : "https://f.fcdn.app/imgs/365d40/suchinasa.com/suchuy/3768/original/catalogo/7200_7200_1/2000-2000/encendedor-maxi-bic-12-unidades-encendedor-maxi-bic-12-unidades.jpg"
+     },
+     {
+        "Id" : 68,
+        "Nombre" : "Bic Grande",
+        "Descripcion" : "1 Unidad",
+        "Precio" : 35,
+        "PrecioBase" : 30,
+        "Imagen" : "https://www.ketal.com.bo/image/cache/catalog/product/48031893-550x550.jpg"
+     },
+     {
+        "Id" : 69,
+        "Nombre" : "Bic Mediano",
+        "Descripcion" : "50 Unidades",
+        "Precio" : 940,
+        "PrecioBase" : 360,
+        "Imagen" : "https://sc04.alicdn.com/kf/Ac3739a620e5641ba9a4296136dfabb68I.jpg"
+     },
+     {
+        "Id" : 70,
+        "Nombre" : "Bic Mediano",
+        "Descripcion" : "1 Unidad",
+        "Precio" : 25,
+        "PrecioBase" : 18,
+        "Imagen" : "https://ferreteriavidri.com/images/items/large/72701.jpg"
+     },
+     {
+        "Id" : 56,
+        "Nombre" : "Caldos Apti",
+        "Descripcion" : "24 Unidades",
+        "Precio" : 150,
+        "PrecioBase" : 120,
+        "Imagen" : "https://f.fcdn.app/imgs/38d9cb/suchinasa.com/suchuy/55e0/original/catalogo/19185_19187_1/2000-2000/caldo-apti-x24-unidades-costilla.jpg"
+     },
+     {
+        "Id" : 32,
+        "Nombre" : "Chiclet Beldent",
+        "Descripcion" : "20 Unidades, Negro, Azul y Rosa",
+        "Precio" : 220,
+        "PrecioBase" : 190,
+        "Imagen" : "https://maxikiosco546.com.uy/wp-content/uploads/2021/05/menta_fuerte__01503.1615919947.png"
+     },
+     {
+        "Id" : 33,
+        "Nombre" : "Gotita",
+        "Descripcion" : "6 Unidades",
+        "Precio" : 250,
+        "PrecioBase" : 210,
+        "Imagen" : "https://f.fcdn.app/imgs/ba971b/www.drogueriapaysandu.com.uy/dpayuy/ce0c/original/catalogo/01012701_01012701_1/2000-2000/la-gotita-2-ml-la-gotita-2-ml.jpg"
+     },
+     {
+        "Id" : 34,
+        "Nombre" : "Eccole",
+        "Descripcion" : "6 Unidades",
+        "Precio" : 660,
+        "PrecioBase" : 600,
+        "Imagen" : "https://f.fcdn.app/imgs/6985b9/www.drogueriapaysandu.com.uy/dpayuy/459d/original/catalogo/01014570_01014570_1/2000-2000/adhesivo-para-zapatos-eccole-9-g-adhesivo-para-zapatos-eccole-9-g.jpg"
+     },
+     {
+        "Id" : 35,
+        "Nombre" : "Desodorante Rexona",
+        "Descripcion" : "",
+        "Precio" : 90,
+        "PrecioBase" : 80,
+        "Imagen" : "https://f.fcdn.app/imgs/d807c4/coraluy.com/corauy/0d70/original/catalogo/4444414444411/2000-2000/desodorante-rexona-aerosol-men-sensitive-150-ml-desodorante-rexona-aerosol-men-sensitive-150-ml.jpg"
+     },
+     {
+        "Id" : 36,
+        "Nombre" : "Desodorante Dove",
+        "Descripcion" : "",
+        "Precio" : 80,
+        "PrecioBase" : 75,
+        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/1/51465_10.jpg"
+     },
+     {
+        "Id" : 37,
+        "Nombre" : "Desodorante Axe",
+        "Descripcion" : "",
+        "Precio" : 90,
+        "PrecioBase" : 80,
+        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/7/2/72718-1.jpg"
+     },
+     {
+        "Id" : 38,
+        "Nombre" : "Rexona Odorono",
+        "Descripcion" : "",
+        "Precio" : 50,
+        "PrecioBase" : 35,
+        "Imagen" : "https://f.fcdn.app/imgs/8198c8/cleanway.com.uy/clewuy/6a3c/original/catalogo/69848-69848_1/1920-1200/desodorante-odorono-rexona-60-gr-desodorante-odorono-rexona-60-gr.jpg"
+     },
+     {
+        "Id" : 39,
+        "Nombre" : "Javones Dove",
+        "Descripcion" : "6 Unidades",
+        "Precio" : 240,
+        "PrecioBase" : 220,
+        "Imagen" : "https://farmapalacio.com/wp-content/uploads/2020/05/7891150044616-7.jpg"
+     },
+     {
         "Id" : 4,
         "Nombre" : "Omeoprazol",
         "Descripcion" : "30 Capsulas",
@@ -171,8 +323,8 @@
         "Id" : 23,
         "Nombre" : "Perifar Migra",
         "Descripcion" : "8 Unidades",
-        "Precio" : 170,
-        "PrecioBase" : 170,
+        "Precio" : 150,
+        "PrecioBase" : 124,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/1/1/11928_10.jpg"
      },
      {
@@ -218,9 +370,17 @@
      {
         "Id" : 24,
         "Nombre" : "Aspirina-Blister",
+        "Descripcion" : "3 Blisters de 10 Unidades",
+        "Precio" : 140,
+        "PrecioBase" : 120,
+        "Imagen" : "https://www.aspirina.com.mx/sites/g/files/vrxlpx43166/files/styles/social_share/public/2022-11/Aspirina3.jpg?itok=icMl5Q80"
+     },
+     {
+        "Id" : 70,
+        "Nombre" : "Aspirina-Blister",
         "Descripcion" : "10 Unidades",
-        "Precio" : 40,
-        "PrecioBase" : 30,
+        "Precio" : 50,
+        "PrecioBase" : 40,
         "Imagen" : "https://www.aspirina.com.mx/sites/g/files/vrxlpx43166/files/styles/social_share/public/2022-11/Aspirina3.jpg?itok=icMl5Q80"
      },
      {
@@ -240,6 +400,14 @@
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/4/6/46505_10.jpg"
      },
      {
+        "Id" : 72,
+        "Nombre" : "Dolex 1000",
+        "Descripcion" : "8 Unidades",
+        "Precio" : 110,
+        "PrecioBase" : 80,
+        "Imagen" : "https://f.fcdn.app/imgs/1e4b20/farmaglobal.com.uy/fagouy/8e5a/original/catalogo/54391543911/1920-1200/dolex-1000-mg-24-comprimidos-dolex-1000-mg-24-comprimidos.jpg"
+     },
+     {
         "Id" : 27,
         "Nombre" : "Sertal",
         "Descripcion" : "10 Unidades",
@@ -251,8 +419,8 @@
         "Id" : 28,
         "Nombre" : "ACF4",
         "Descripcion" : "8 Unidades",
-        "Precio" : 140,
-        "PrecioBase" : 110,
+        "Precio" : 130,
+        "PrecioBase" : 98,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/2/9/29978_10_1.jpg"
      },
      {
@@ -260,7 +428,7 @@
         "Nombre" : "Novemina",
         "Descripcion" : "8 Unidades",
         "Precio" : 80,
-        "PrecioBase" : 80,
+        "PrecioBase" : 56,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/1/51597_10.jpg"
      },
      {
@@ -286,134 +454,6 @@
         "Precio" : 220,
         "PrecioBase" : 190,
         "Imagen" : "https://res.cloudinary.com/prixz/image/upload/d_default_product_txh9zg.svg,w_500,q_auto/items/7501008485033.jpg"
-     },
-     {
-        "Id" : 17,
-        "Nombre" : "Conford",
-        "Descripcion" : "12 Unidades",
-        "Precio" : 330,
-        "PrecioBase" : 300,
-        "Imagen" : "https://dojiw2m9tvv09.cloudfront.net/37792/product/8713180795.jpg"
-     },
-     {
-        "Id" : 61,
-        "Nombre" : "Mayonesa Hellmann's",
-        "Descripcion" : "20 Unidades",
-        "Precio" : 480,
-        "PrecioBase" : 420,
-        "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P051782-1.jpg?20220930211951,Mayonesa-HELLMANN%27S-118-gr-en-Tienda-Inglesa"
-     },
-     {
-        "Id" : 62,
-        "Nombre" : "Paquete Hellmann's",
-        "Descripcion" : "1 Unidad",
-        "Precio" : 25,
-        "PrecioBase" : 14,
-        "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P051782-1.jpg?20220930211951,Mayonesa-HELLMANN%27S-118-gr-en-Tienda-Inglesa"
-     },
-     {
-        "Id" : 63,
-        "Nombre" : "Mayonesa Uruguay",
-        "Descripcion" : "20 Unidades",
-        "Precio" : 460,
-        "PrecioBase" : 400,
-        "Imagen" : "https://mediato.com.uy/imagenes/img_contenido/productos/a/953CO.jpg"
-     },
-     {
-        "Id" : 64,
-        "Nombre" : "Paquete Uruguay",
-        "Descripcion" : "1 Unidad",
-        "Precio" : 25,
-        "PrecioBase" : 20,
-        "Imagen" : "https://f.fcdn.app/imgs/5553b2/suchinasa.com/suchuy/3bbe/original/catalogo/9917_9917_1/1920-1200/mayonesa-uruguay-2-90kg-mayonesa-uruguay-2-90kg.jpg"
-     },
-     {
-        "Id" : 30,
-        "Nombre" : "Encen. Berlina",
-        "Descripcion" : "50 Unidades",
-        "Precio" : 400,
-        "PrecioBase" : 300,
-        "Imagen" : "https://d1yyxems0bt9th.cloudfront.net/content/images/thumbs/0035488_sisvendfotosg1098jpg_600.jpeg"
-     },
-     {
-        "Id" : 31,
-        "Nombre" : "Encen. Bic",
-        "Descripcion" : "12 Unidades",
-        "Precio" : 400,
-        "PrecioBase" : 360,
-        "Imagen" : "https://f.fcdn.app/imgs/365d40/suchinasa.com/suchuy/3768/original/catalogo/7200_7200_1/2000-2000/encendedor-maxi-bic-12-unidades-encendedor-maxi-bic-12-unidades.jpg"
-     },
-     {
-        "Id" : 56,
-        "Nombre" : "Caldos Apti",
-        "Descripcion" : "24 Unidades",
-        "Precio" : 150,
-        "PrecioBase" : 120,
-        "Imagen" : "https://f.fcdn.app/imgs/38d9cb/suchinasa.com/suchuy/55e0/original/catalogo/19185_19187_1/2000-2000/caldo-apti-x24-unidades-costilla.jpg"
-     },
-     {
-        "Id" : 32,
-        "Nombre" : "Chiclet Beldent",
-        "Descripcion" : "20 Unidades, Negro, Azul y Rosa",
-        "Precio" : 220,
-        "PrecioBase" : 190,
-        "Imagen" : "https://maxikiosco546.com.uy/wp-content/uploads/2021/05/menta_fuerte__01503.1615919947.png"
-     },
-     {
-        "Id" : 33,
-        "Nombre" : "Gotita",
-        "Descripcion" : "6 Unidades",
-        "Precio" : 250,
-        "PrecioBase" : 210,
-        "Imagen" : "https://f.fcdn.app/imgs/ba971b/www.drogueriapaysandu.com.uy/dpayuy/ce0c/original/catalogo/01012701_01012701_1/2000-2000/la-gotita-2-ml-la-gotita-2-ml.jpg"
-     },
-     {
-        "Id" : 34,
-        "Nombre" : "Eccole",
-        "Descripcion" : "6 Unidades",
-        "Precio" : 660,
-        "PrecioBase" : 600,
-        "Imagen" : "https://f.fcdn.app/imgs/6985b9/www.drogueriapaysandu.com.uy/dpayuy/459d/original/catalogo/01014570_01014570_1/2000-2000/adhesivo-para-zapatos-eccole-9-g-adhesivo-para-zapatos-eccole-9-g.jpg"
-     },
-     {
-        "Id" : 35,
-        "Nombre" : "Desodorante Rexona",
-        "Descripcion" : "",
-        "Precio" : 90,
-        "PrecioBase" : 80,
-        "Imagen" : "https://f.fcdn.app/imgs/d807c4/coraluy.com/corauy/0d70/original/catalogo/4444414444411/2000-2000/desodorante-rexona-aerosol-men-sensitive-150-ml-desodorante-rexona-aerosol-men-sensitive-150-ml.jpg"
-     },
-     {
-        "Id" : 36,
-        "Nombre" : "Desodorante Dove",
-        "Descripcion" : "",
-        "Precio" : 80,
-        "PrecioBase" : 75,
-        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/1/51465_10.jpg"
-     },
-     {
-        "Id" : 37,
-        "Nombre" : "Desodorante Axe",
-        "Descripcion" : "",
-        "Precio" : 90,
-        "PrecioBase" : 80,
-        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/7/2/72718-1.jpg"
-     },
-     {
-        "Id" : 38,
-        "Nombre" : "Rexona Odorono",
-        "Descripcion" : "",
-        "Precio" : 50,
-        "PrecioBase" : 35,
-        "Imagen" : "https://f.fcdn.app/imgs/8198c8/cleanway.com.uy/clewuy/6a3c/original/catalogo/69848-69848_1/1920-1200/desodorante-odorono-rexona-60-gr-desodorante-odorono-rexona-60-gr.jpg"
-     },
-     {
-        "Id" : 39,
-        "Nombre" : "Javones Dove",
-        "Descripcion" : "6 Unidades",
-        "Precio" : 240,
-        "PrecioBase" : 220,
-        "Imagen" : "https://farmapalacio.com/wp-content/uploads/2020/05/7891150044616-7.jpg"
      },
      {
         "Id" : 40,
