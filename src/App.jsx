@@ -136,9 +136,7 @@ function App() {
         <TablaVentas productosVenta={ventas} EliminarVenta={handleEliminarVenta} Total={total} id="tabla-ventas"/>
       )
     }
-    <p>Total: {total}</p>
-    <p>Ganancia: {ganacia}</p>
-    <p>Reposicion: {reposicion}</p>
+
 
     <div className="botones">
         <button className="purple" onClick={handleGoToInicio}>↑</button>
@@ -152,6 +150,11 @@ function App() {
   )
 }
 
+/*
+    <p>Total: {total}</p>
+    <p>Ganancia: {ganacia}</p>
+    <p>Reposicion: {reposicion}</p>
+*/
 export default App
 
 //
