@@ -62,6 +62,10 @@ const TablaVentas = (props) => {
     tablaRef.current.scrollIntoView({ behavior: "smooth" });
   };  
 
+  const handleResetearVentas = () =>{
+    props.resetarVentas();
+  }
+
   const listarTabla =()=>{
     if (props.Total != 0) {
       return(
@@ -82,6 +86,9 @@ const TablaVentas = (props) => {
             {ultimaFila()}
           </tbody>
         </table>
+        <button onClick={() => handleResetearVentas()}>
+                Resetear
+        </button>
         </div>
       );
     } else {

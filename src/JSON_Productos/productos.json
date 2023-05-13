@@ -1,4 +1,21 @@
 [
+   
+   {
+      "Id" : 74,
+      "Nombre" : "Pacoquita",
+      "Descripcion" : "50 Unidades",
+      "Precio" : 280,
+      "PrecioBase" : 250,
+      "Imagen" : "https://gominoladelivery.com/wp-content/uploads/2022/07/pacoquita-mani-3.png"
+   },
+   {
+      "Id" : 76,
+      "Nombre" : "Pacoca",
+      "Descripcion" : "50 Unidades",
+      "Precio" : 220,
+      "PrecioBase" : 180,
+      "Imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7KjeJFpYBP54YOWLctw3iwv-7LnAqHhQ6woSnlIhfMpBxC_164B20magbiArRSIyRU8&usqp=CAU"
+   },
     {
       "Id" : 1,
        "Nombre" : "Colgate",
@@ -40,27 +57,27 @@
         "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P051782-1.jpg?20220930211951,Mayonesa-HELLMANN%27S-118-gr-en-Tienda-Inglesa"
      },
      {
-        "Id" : 62,
+        "Id" : 75,
         "Nombre" : "Paquete Hellmann's",
         "Descripcion" : "1 Unidad",
-        "Precio" : 25,
-        "PrecioBase" : 14,
+        "Precio" : 28,
+        "PrecioBase" : 21,
         "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P051782-1.jpg?20220930211951,Mayonesa-HELLMANN%27S-118-gr-en-Tienda-Inglesa"
      },
      {
         "Id" : 67,
         "Nombre" : "Ketchup Hellmann's",
         "Descripcion" : "30 Unidades",
-        "Precio" : 680,
-        "PrecioBase" : 650,
+        "Precio" : 540,
+        "PrecioBase" : 480,
         "Imagen" : "https://assets.vtex.app/unsafe/660x660/center/middle/https%3A%2F%2Ftatauy.vtexassets.com%2Farquivos%2Fids%2F527567%2FAderezo-Ketchup-HELLMAN-S-Sachet-60-G-1-3281.jpg%3Fv%3D1769965405"
      },
      {
         "Id" : 62,
         "Nombre" : "Paquete Hellmann's",
         "Descripcion" : "1 Unidad",
-        "Precio" : 25,
-        "PrecioBase" : 22,
+        "Precio" : 20,
+        "PrecioBase" : 16,
         "Imagen" : "https://assets.vtex.app/unsafe/660x660/center/middle/https%3A%2F%2Ftatauy.vtexassets.com%2Farquivos%2Fids%2F527567%2FAderezo-Ketchup-HELLMAN-S-Sachet-60-G-1-3281.jpg%3Fv%3D1769965405"
      },
      {
@@ -88,15 +105,15 @@
         "Imagen" : "https://www.ketal.com.bo/image/cache/catalog/product/48031893-550x550.jpg"
      },
      {
-        "Id" : 69,
+        "Id" : 77,
         "Nombre" : "Bic Mediano",
-        "Descripcion" : "50 Unidades",
-        "Precio" : 940,
+        "Descripcion" : "50 Unidades - 19$c/u",
+        "Precio" : 925,
         "PrecioBase" : 360,
         "Imagen" : "https://sc04.alicdn.com/kf/Ac3739a620e5641ba9a4296136dfabb68I.jpg"
      },
      {
-        "Id" : 70,
+        "Id" : 99,
         "Nombre" : "Bic Mediano",
         "Descripcion" : "1 Unidad",
         "Precio" : 25,
@@ -464,6 +481,14 @@
         "Imagen" : "https://sumerlabs.com/sumer-app-90b8f.appspot.com/product_photos%2Fff763a31fb19202fe59178a8f4c49bd4%2Fc5aca300-5c4f-11ec-b39e-5f256493409d?alt=media&token=bf8356b3-1529-400e-bfa9-c0f423e7a5e5"
      },
      {
+        "Id" : 81,
+        "Nombre" : "Fernet",
+        "Descripcion" : "Botella Branca",
+        "Precio" : 360,
+        "PrecioBase" : 320,
+        "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P041287-1.jpg?20220111110027,Fernet-BRANCA-750-ml-en-Tienda-Inglesa"
+     },
+     {
         "Id" : 41,
         "Nombre" : "GIF - Medio Carton",
         "Descripcion" : "",
@@ -475,8 +500,8 @@
         "Id" : 42,
         "Nombre" : "51 - Cigarillos",
         "Descripcion" : "",
-        "Precio" : 340,
-        "PrecioBase" : 280,
+        "Precio" : 380,
+        "PrecioBase" : 330,
         "Imagen" : "https://cdn.elobservador.com.uy/102018/1539197638236/_CDS7971.JPG"
      },
      {

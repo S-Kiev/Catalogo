@@ -62,18 +62,14 @@ function App() {
     const { Producto, Cantidad, PrecioVenta, SubTotal, Ganancia, Reposicion } = productoVendido;
     const nuevaVenta = { Producto, Cantidad, PrecioVenta, SubTotal, Ganancia, Reposicion };
 
-    console.log(productoVendido)
   
     // Verificar si el producto ya existe en el array de ventas
     const productoExistente = ventas.find(venta => venta.Producto === Producto);
-
-    console.log(productoExistente)
   
     if (productoExistente) {
       // Si el producto ya existe, reemplazarlo en el array de ventas
       const ventasActualizadas = ventas.map(venta => {
         if (venta.Producto === Producto) {
-          console.log(nuevaVenta)
           return nuevaVenta;
         }
         return venta;
@@ -115,14 +111,18 @@ function App() {
       tablaVentas && tablaVentas.scrollIntoView({ behavior: "smooth" });
     }, 100);
   };
-  
-  //<BarcodeScanner recibirVenta={recibirVenta}/>
 
+  const resetarVentas=()=>{
+    setVentas([]);
+  }
+  
+
+
+ // <BarcodeScanner recibirVenta={recibirVenta} productosVenta={ventas}/>
   
   return (
     <div className="App">
       <Buscador handleSearch={handleSearch}/>
-
 
       
       <div className='card-container'>
@@ -133,7 +133,7 @@ function App() {
       </div>
         {
       ventaActual && (
-        <TablaVentas productosVenta={ventas} EliminarVenta={handleEliminarVenta} Total={total} id="tabla-ventas"/>
+        <TablaVentas productosVenta={ventas} EliminarVenta={handleEliminarVenta} Total={total} id="tabla-ventas" resetarVentas={resetarVentas}/>
       )
     }
 

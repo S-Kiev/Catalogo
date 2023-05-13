@@ -9,6 +9,7 @@ const BarcodeScanner = (props) => {
   const [canScan, setCanScan] = useState(true);
   const [productoEscaneado, setProductoEscaneado] = useState(null);
 
+
   const playBeepSound = () => {
     const audio = new Audio(beepSound);
     audio.play();
@@ -20,38 +21,68 @@ const BarcodeScanner = (props) => {
       setProductoEscaneado(producto);
     }
   };
-  
 
-  useEffect(() => {
-    if (productoEscaneado) { // Verifica si productoEscaneado no es nulo
-       const ventaExistente = props.Ventas.find((venta) => venta.Producto === productoEscaneado?.Id);
-       console.log(ventaExistente)
-       if(ventaExistente) {
-        const nuevaCantidad = ventaExistente.Cantidad + 1;
-        const ventaPorCodigo = {
-          Producto: productoEscaneado?.Id,
-          Cantidad: nuevaCantidad,
-          PrecioVenta: productoEscaneado?.Precio,
-          SubTotal: productoEscaneado?.Precio * nuevaCantidad,
-          Ganancia: (productoEscaneado?.Precio * nuevaCantidad) - (productoEscaneado?.PrecioBase * nuevaCantidad),
-          Reposicion: (productoEscaneado?.PrecioBase * nuevaCantidad),
-        };
-        console.log(ventaPorCodigo)
-        props.recibirVenta(ventaPorCodigo)
-       } else {
-        const ventaPorCodigo = {
-          Producto: productoEscaneado?.Id,
-          Cantidad: 1,
-          PrecioVenta: productoEscaneado?.Precio,
-          SubTotal: productoEscaneado?.Precio,
-          Ganancia: productoEscaneado?.Precio - productoEscaneado?.PrecioBase,
-          Reposicion: productoEscaneado?.PrecioBase,
-        };
-        console.log(ventaPorCodigo)
-        props.recibirVenta(ventaPorCodigo);
-       }
+  useEffect(()=>{
+    calcularVenta(productoEscaneado?.Id)
+  },[productoEscaneado])
+
+  const calcularVenta = (id) =>{
+    console.log("producto escaneado: ")
+    console.log(productoEscaneado)
+    console.log("el ide es: " + id)
+
+    console.log("lista de ventas: ")
+    console.log(props.productosVenta)
+
+    const venta = props.productosVenta.find((v) => v.Producto == id);
+    const productoExiste = productos.find((p) => p.Id == id);
+
+    console.log("venta: ")
+    console.log(venta)
+
+    if (venta) {
+      const cantidad = venta.Cantidad + 1;
+      const precioVenta = productoEscaneado?.Precio;
+      const subTotal = productoEscaneado?.Precio  * cantidad;
+      const ganancia = (productoEscaneado?.Precio - productoEscaneado?.PrecioBase) * cantidad;
+      const repo = productoEscaneado?.PrecioBase * cantidad;
+
+      console.log("cantidad")
+      console.log(cantidad)
+      console.log("venta")
+      console.log(venta)
+
+      props.recibirVenta({
+        Producto: id, 
+        Cantidad : cantidad,
+        PrecioVenta : precioVenta,
+        SubTotal: subTotal,
+        Ganancia : ganancia,
+        Reposicion: repo
+      })
+
+    } else if (!venta && productoExiste) {
+      const cantidad = 1;
+      const precioVenta = productoEscaneado?.Precio;
+      const subTotal = productoEscaneado?.Precio  * cantidad;
+      const ganancia = (productoEscaneado?.Precio - productoEscaneado?.PrecioBase) * cantidad;
+      const repo = productoEscaneado?.PrecioBase * cantidad;
+
+      console.log("cantidad")
+      console.log(cantidad)
+      console.log("venta")
+      console.log(venta)
+
+      props.recibirVenta({
+        Producto: id, 
+        Cantidad : cantidad,
+        PrecioVenta : precioVenta,
+        SubTotal: subTotal,
+        Ganancia : ganancia,
+        Reposicion: repo
+      })
     }
-  }, [productoEscaneado]);
+  }
 
   useEffect(() => {
     Quagga.init(
@@ -83,8 +114,9 @@ const BarcodeScanner = (props) => {
       if (canScan) {
         const code = data.codeResult.code;
         setResult(code);
-        buscarProducto(code)
         setCanScan(false);
+        buscarProducto(code);
+        calcularVenta(code)
         playBeepSound();
         setTimeout(() => {
           setCanScan(true);
