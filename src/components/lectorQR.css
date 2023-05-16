@@ -1,0 +1,20 @@
+.scanner-btn {
+    font-size: 1rem;
+    padding: 8px 16px;
+    border-radius: 4px;
+    border: none;
+    background-color: #ffffff;
+    color: #333333;
+    box-shadow: none;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .scanner-btn:hover {
+    background-color: #eeeeee;
+  }
+  
+  .scanner-btn-active {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 10px 0px rgba(255, 215, 0, 0.75);
+  }
+  

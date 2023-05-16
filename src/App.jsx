@@ -118,24 +118,30 @@ function App() {
   
 
 
- // <BarcodeScanner recibirVenta={recibirVenta} productosVenta={ventas}/>
+ //  <BarcodeScanner recibirVenta={recibirVenta} productosVenta={ventas}/> 
+
+// <h1>Escriba su Mensaje</h1>
+// <textarea value={mensaje} onChange={handleMensajeChange}></textarea><br/>
+// <button onClick={() => window.location.href = `https://wa.me/${PHONE_NUMBER}?text=${mensaje}`} className="button">Enviar Pedido</button>
   
   return (
     <div className="App">
       <Buscador handleSearch={handleSearch}/>
 
-      
+
+
+      {
+      ventaActual && (
+        <TablaVentas productosVenta={ventas} EliminarVenta={handleEliminarVenta} Total={total} id="tabla-ventas" resetarVentas={resetarVentas}/>
+      )
+      }
       <div className='card-container'>
         {productosFiltrados.map((producto)=>(
           <Card ref={hijoRef} key={producto.Id} Id={producto.Id} Descripcion={producto.Descripcion} Nombre={producto.Nombre} Precio={producto.Precio} PrecioBase={producto.PrecioBase} Imagen={producto.Imagen} recibirVenta={recibirVenta} eliminarVenta={handleEliminarVenta} ventas={ventas}/>
           ))
         }
       </div>
-        {
-      ventaActual && (
-        <TablaVentas productosVenta={ventas} EliminarVenta={handleEliminarVenta} Total={total} id="tabla-ventas" resetarVentas={resetarVentas}/>
-      )
-    }
+
 
 
     <div className="botones">
@@ -143,9 +149,6 @@ function App() {
         <button className="green" onClick={scrollTablaVentas}>↓</button>
     </div>
 
-      <h1>Escriba su Mensaje</h1>
-      <textarea value={mensaje} onChange={handleMensajeChange}></textarea><br/>
-      <button onClick={() => window.location.href = `https://wa.me/${PHONE_NUMBER}?text=${mensaje}`} className="button">Enviar Pedido</button>
     </div>
   )
 }

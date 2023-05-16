@@ -482,11 +482,19 @@
      },
      {
         "Id" : 81,
-        "Nombre" : "Fernet",
-        "Descripcion" : "Botella Branca",
-        "Precio" : 360,
-        "PrecioBase" : 320,
-        "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P041287-1.jpg?20220111110027,Fernet-BRANCA-750-ml-en-Tienda-Inglesa"
+        "Nombre" : "Caña Boa D+",
+        "Descripcion" : "Fardo x 12 - 62,5$ c/u",
+        "Precio" : 750,
+        "PrecioBase" : 520,
+        "Imagen" : "https://www.stock.com.py/images/thumbs/0185536.jpeg"
+     },
+     {
+        "Id" : 82,
+        "Nombre" : "Caña Boa D+",
+        "Descripcion" : "1 Unidad",
+        "Precio" : 65,
+        "PrecioBase" : 52,
+        "Imagen" : "https://www.stock.com.py/images/thumbs/0185536.jpeg"
      },
      {
         "Id" : 41,
@@ -522,3 +530,5 @@
      }
 
 ]
+
+

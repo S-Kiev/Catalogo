@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Quagga from 'quagga';
 import beepSound from '../audio/beep.mp3';
 import productos from '../JSON_Productos/productos.json';
+import './lectorQR.css'
 
 
 const BarcodeScanner = (props) => {
@@ -22,23 +23,18 @@ const BarcodeScanner = (props) => {
     }
   };
 
+  /*
   useEffect(()=>{
     calcularVenta(productoEscaneado?.Id)
   },[productoEscaneado])
+  */
 
   const calcularVenta = (id) =>{
-    console.log("producto escaneado: ")
-    console.log(productoEscaneado)
-    console.log("el ide es: " + id)
 
-    console.log("lista de ventas: ")
-    console.log(props.productosVenta)
+    const idNumerico = Number(id);
 
-    const venta = props.productosVenta.find((v) => v.Producto == id);
-    const productoExiste = productos.find((p) => p.Id == id);
-
-    console.log("venta: ")
-    console.log(venta)
+    const venta = props.productosVenta.find((v) => v.Producto == idNumerico);
+    const productoExiste = productos.find((p) => p.Id == idNumerico);
 
     if (venta) {
       const cantidad = venta.Cantidad + 1;
@@ -47,13 +43,9 @@ const BarcodeScanner = (props) => {
       const ganancia = (productoEscaneado?.Precio - productoEscaneado?.PrecioBase) * cantidad;
       const repo = productoEscaneado?.PrecioBase * cantidad;
 
-      console.log("cantidad")
-      console.log(cantidad)
-      console.log("venta")
-      console.log(venta)
 
       props.recibirVenta({
-        Producto: id, 
+        Producto: idNumerico, 
         Cantidad : cantidad,
         PrecioVenta : precioVenta,
         SubTotal: subTotal,
@@ -63,18 +55,13 @@ const BarcodeScanner = (props) => {
 
     } else if (!venta && productoExiste) {
       const cantidad = 1;
-      const precioVenta = productoEscaneado?.Precio;
-      const subTotal = productoEscaneado?.Precio  * cantidad;
-      const ganancia = (productoEscaneado?.Precio - productoEscaneado?.PrecioBase) * cantidad;
-      const repo = productoEscaneado?.PrecioBase * cantidad;
-
-      console.log("cantidad")
-      console.log(cantidad)
-      console.log("venta")
-      console.log(venta)
+      const precioVenta = productoExiste?.Precio;
+      const subTotal = productoExiste?.Precio  * cantidad;
+      const ganancia = (productoExiste?.Precio - productoExiste?.PrecioBase) * cantidad;
+      const repo = productoExiste?.PrecioBase * cantidad;
 
       props.recibirVenta({
-        Producto: id, 
+        Producto: idNumerico, 
         Cantidad : cantidad,
         PrecioVenta : precioVenta,
         SubTotal: subTotal,
@@ -85,6 +72,14 @@ const BarcodeScanner = (props) => {
   }
 
   useEffect(() => {
+    const styles = {
+      button: {
+        padding: canScan ? '13px' : '10px',
+        boxShadow: canScan ? '0px 0px 5px gold' : 'none',
+      },
+    };
+
+
     Quagga.init(
       {
         inputStream: {
@@ -118,10 +113,6 @@ const BarcodeScanner = (props) => {
         buscarProducto(code);
         calcularVenta(code)
         playBeepSound();
-        setTimeout(() => {
-          setCanScan(true);
-        }, 3000);
-        
       }
     });
     
@@ -132,10 +123,37 @@ const BarcodeScanner = (props) => {
     };
   }, [canScan]);
 
+  useEffect(() => {
+    let timeout;
+    if (!canScan) {
+      timeout = setTimeout(() => {
+        setCanScan(true);
+      }, 3000);
+    }
+    return () => {
+      clearTimeout(timeout);
+    };
+  }, [canScan]);
+  
+
+  const handleEscanear =()=>{
+    if (canScan){
+      setCanScan(false)
+    } else {
+      setCanScan(true)
+    }
+  }
+
   return (
     <div>
       <div id="scanner-container" style={{ width: '100%', height: 'auto' }}></div>
       <p>{result}</p>
+      <button
+       onClick={() => handleEscanear()}
+       className={`scanner-btn ${canScan ? 'scanner-btn-active' : ''}`}
+      >
+                Escanear
+        </button>
     </div>
   );
 };
