@@ -1,25 +1,8 @@
 [
-   
-   {
-      "Id" : 74,
-      "Nombre" : "Pacoquita",
-      "Descripcion" : "50 Unidades",
-      "Precio" : 280,
-      "PrecioBase" : 250,
-      "Imagen" : "https://gominoladelivery.com/wp-content/uploads/2022/07/pacoquita-mani-3.png"
-   },
-   {
-      "Id" : 76,
-      "Nombre" : "Pacoca",
-      "Descripcion" : "50 Unidades",
-      "Precio" : 220,
-      "PrecioBase" : 180,
-      "Imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7KjeJFpYBP54YOWLctw3iwv-7LnAqHhQ6woSnlIhfMpBxC_164B20magbiArRSIyRU8&usqp=CAU"
-   },
     {
       "Id" : 1,
-       "Nombre" : "Colgate",
-       "Descripcion" : "",
+       "Nombre" : "Colgate 90gr",
+       "Descripcion" : "12 Unidades - 47$c/u",
        "Precio" : 560,
        "PrecioBase" : 480,
        "Imagen" : "https://x9a8e6b9.stackpathcdn.com/media/cache/attachment/filter/product_gallery_main/60241f1507e89324a00c97b87b841eb0/50191/6117ba993dd9b511271104.png"
@@ -28,22 +11,38 @@
         "Id" : 2,
         "Nombre" : "Tiras Pantene",
         "Descripcion" : "Shampoo y Acondicionador",
-        "Precio" : 130,
-        "PrecioBase" : 120,
+        "Precio" : 120,
+        "PrecioBase" : 100,
         "Imagen" : "https://www.distribuidorafederico.com/products/images/phpircbc6.jpg"
      },
      {
         "Id" : 3,
         "Nombre" : "Jugos Rinde 2",
-        "Descripcion" : "Sabores",
+        "Descripcion" : "Varios Sabores",
         "Precio" : 190,
         "PrecioBase" : 170,
         "Imagen" : "https://americadist.com.ar/images/product_image/3308/0?fit=fill&w=1080&h=1080"
      },
      {
+        "Id" : 88,
+        "Nombre" : "Pate Changuito",
+        "Descripcion" : "24 Unidades - 25$c/u",
+        "Precio" : 600,
+        "PrecioBase" : 520,
+        "Imagen" : "https://www.lacoopeencasa.coop/media/lcec/publico/articulos/0/6/d/06dda324221d178a30601e195dd28492"
+     },
+     {
+        "Id" : 89,
+        "Nombre" : "Pate Changuito",
+        "Descripcion" : "1 Unidades",
+        "Precio" : 28,
+        "PrecioBase" : 22,
+        "Imagen" : "https://www.lacoopeencasa.coop/media/lcec/publico/articulos/0/6/d/06dda324221d178a30601e195dd28492"
+     },
+     {
         "Id" : 17,
         "Nombre" : "Conford",
-        "Descripcion" : "12 Unidades",
+        "Descripcion" : "12 Unidades - 27,5$c/u",
         "Precio" : 330,
         "PrecioBase" : 300,
         "Imagen" : "https://dojiw2m9tvv09.cloudfront.net/37792/product/8713180795.jpg"
@@ -51,7 +50,7 @@
      {
         "Id" : 61,
         "Nombre" : "Mayonesa Hellmann's",
-        "Descripcion" : "20 Unidades",
+        "Descripcion" : "20 Unidades - 24$c/u",
         "Precio" : 480,
         "PrecioBase" : 420,
         "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P051782-1.jpg?20220930211951,Mayonesa-HELLMANN%27S-118-gr-en-Tienda-Inglesa"
@@ -67,7 +66,7 @@
      {
         "Id" : 67,
         "Nombre" : "Ketchup Hellmann's",
-        "Descripcion" : "30 Unidades",
+        "Descripcion" : "30 Unidades - 18$c/u",
         "Precio" : 540,
         "PrecioBase" : 480,
         "Imagen" : "https://assets.vtex.app/unsafe/660x660/center/middle/https%3A%2F%2Ftatauy.vtexassets.com%2Farquivos%2Fids%2F527567%2FAderezo-Ketchup-HELLMAN-S-Sachet-60-G-1-3281.jpg%3Fv%3D1769965405"
@@ -81,17 +80,33 @@
         "Imagen" : "https://assets.vtex.app/unsafe/660x660/center/middle/https%3A%2F%2Ftatauy.vtexassets.com%2Farquivos%2Fids%2F527567%2FAderezo-Ketchup-HELLMAN-S-Sachet-60-G-1-3281.jpg%3Fv%3D1769965405"
      },
      {
+      "Id" : 74,
+      "Nombre" : "Pacoquita",
+      "Descripcion" : "50 Unidades - 5,6$c/u",
+      "Precio" : 280,
+      "PrecioBase" : 250,
+      "Imagen" : "https://gominoladelivery.com/wp-content/uploads/2022/07/pacoquita-mani-3.png"
+   },
+   {
+      "Id" : 76,
+      "Nombre" : "Pacoca",
+      "Descripcion" : "50 Unidades - 4$c/u",
+      "Precio" : 200,
+      "PrecioBase" : 180,
+      "Imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7KjeJFpYBP54YOWLctw3iwv-7LnAqHhQ6woSnlIhfMpBxC_164B20magbiArRSIyRU8&usqp=CAU"
+   },
+     {
         "Id" : 30,
         "Nombre" : "Encen. Berlina",
-        "Descripcion" : "50 Unidades",
-        "Precio" : 400,
+        "Descripcion" : "50 Unidades - 9$c/u",
+        "Precio" : 450,
         "PrecioBase" : 300,
         "Imagen" : "https://d1yyxems0bt9th.cloudfront.net/content/images/thumbs/0035488_sisvendfotosg1098jpg_600.jpeg"
      },
      {
         "Id" : 31,
         "Nombre" : "Bic Grande",
-        "Descripcion" : "12 Unidades",
+        "Descripcion" : "12 Unidades - 33,3$ c/u",
         "Precio" : 400,
         "PrecioBase" : 360,
         "Imagen" : "https://f.fcdn.app/imgs/365d40/suchinasa.com/suchuy/3768/original/catalogo/7200_7200_1/2000-2000/encendedor-maxi-bic-12-unidades-encendedor-maxi-bic-12-unidades.jpg"
@@ -123,7 +138,7 @@
      {
         "Id" : 56,
         "Nombre" : "Caldos Apti",
-        "Descripcion" : "24 Unidades",
+        "Descripcion" : "24 Unidades - 6,25$c/u",
         "Precio" : 150,
         "PrecioBase" : 120,
         "Imagen" : "https://f.fcdn.app/imgs/38d9cb/suchinasa.com/suchuy/55e0/original/catalogo/19185_19187_1/2000-2000/caldo-apti-x24-unidades-costilla.jpg"
@@ -131,7 +146,7 @@
      {
         "Id" : 32,
         "Nombre" : "Chiclet Beldent",
-        "Descripcion" : "20 Unidades, Negro, Azul y Rosa",
+        "Descripcion" : "20 Unidades, Negro, Azul, Verde y Rosa",
         "Precio" : 220,
         "PrecioBase" : 190,
         "Imagen" : "https://maxikiosco546.com.uy/wp-content/uploads/2021/05/menta_fuerte__01503.1615919947.png"
@@ -139,7 +154,7 @@
      {
         "Id" : 33,
         "Nombre" : "Gotita",
-        "Descripcion" : "6 Unidades",
+        "Descripcion" : "6 Unidades - 41,6$ c/u",
         "Precio" : 250,
         "PrecioBase" : 210,
         "Imagen" : "https://f.fcdn.app/imgs/ba971b/www.drogueriapaysandu.com.uy/dpayuy/ce0c/original/catalogo/01012701_01012701_1/2000-2000/la-gotita-2-ml-la-gotita-2-ml.jpg"
@@ -147,7 +162,7 @@
      {
         "Id" : 34,
         "Nombre" : "Eccole",
-        "Descripcion" : "6 Unidades",
+        "Descripcion" : "6 Unidades - 110$c/u",
         "Precio" : 660,
         "PrecioBase" : 600,
         "Imagen" : "https://f.fcdn.app/imgs/6985b9/www.drogueriapaysandu.com.uy/dpayuy/459d/original/catalogo/01014570_01014570_1/2000-2000/adhesivo-para-zapatos-eccole-9-g-adhesivo-para-zapatos-eccole-9-g.jpg"
@@ -179,7 +194,7 @@
      {
         "Id" : 38,
         "Nombre" : "Rexona Odorono",
-        "Descripcion" : "",
+        "Descripcion" : "A partir de 6 45$c/u",
         "Precio" : 50,
         "PrecioBase" : 35,
         "Imagen" : "https://f.fcdn.app/imgs/8198c8/cleanway.com.uy/clewuy/6a3c/original/catalogo/69848-69848_1/1920-1200/desodorante-odorono-rexona-60-gr-desodorante-odorono-rexona-60-gr.jpg"
@@ -187,7 +202,7 @@
      {
         "Id" : 39,
         "Nombre" : "Javones Dove",
-        "Descripcion" : "6 Unidades",
+        "Descripcion" : "6 Unidades - 40$c/u",
         "Precio" : 240,
         "PrecioBase" : 220,
         "Imagen" : "https://farmapalacio.com/wp-content/uploads/2020/05/7891150044616-7.jpg"
@@ -195,9 +210,9 @@
      {
         "Id" : 4,
         "Nombre" : "Omeoprazol",
-        "Descripcion" : "30 Capsulas",
-        "Precio" : 160,
-        "PrecioBase" : 120,
+        "Descripcion" : "30 Capsulas - 5$c/u",
+        "Precio" : 150,
+        "PrecioBase" : 100,
         "Imagen" : "https://pigalle.com.uy/images/thumbs/0025975_1b5b57b60103fc536b1f72c78829d216b5de8b3d8f36b144ef37256a21db9e37_600.jpeg"
      },
      {
@@ -219,8 +234,8 @@
      {
         "Id" : 7,
         "Nombre" : "Paracetamol",
-        "Descripcion" : "2 Blisters de 10 Capsulas",
-        "Precio" : 130,
+        "Descripcion" : "20 Capsulas - 6$c/u",
+        "Precio" : 120,
         "PrecioBase" : 90,
         "Imagen" : "https://uploads.consultaremedios.com.br/product_variation_images/full/ea0f1b3285e2a50ecc4c484641e5720334133c9a.jpg?1661204338"
      },
@@ -299,7 +314,7 @@
      {
         "Id" : 18,
         "Nombre" : "Uvasal-Caja",
-        "Descripcion" : "15 Sobres Dobles",
+        "Descripcion" : "15 Sobres Dobles - 20$c/u",
         "Precio" : 300,
         "PrecioBase" : 200,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/3/53827_10.jpg"
@@ -308,14 +323,14 @@
         "Id" : 19,
         "Nombre" : "Uvasal-Sobre",
         "Descripcion" : "Sobre Doble",
-        "Precio" : 20,
+        "Precio" : 24,
         "PrecioBase" : 14,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/3/53827_10.jpg"
      },
      {
         "Id" : 20,
         "Nombre" : "Alikal-Caja",
-        "Descripcion" : "30 Sobres",
+        "Descripcion" : "30 Sobres - 15$c/u",
         "Precio" : 450,
         "PrecioBase" : 370,
         "Imagen" : "data:image/jpeg;base64,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"
