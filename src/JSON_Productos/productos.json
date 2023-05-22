@@ -27,15 +27,15 @@
         "Id" : 88,
         "Nombre" : "Pate Changuito",
         "Descripcion" : "24 Unidades - 25$c/u",
-        "Precio" : 600,
-        "PrecioBase" : 520,
+        "Precio" : 580,
+        "PrecioBase" : 500,
         "Imagen" : "https://www.lacoopeencasa.coop/media/lcec/publico/articulos/0/6/d/06dda324221d178a30601e195dd28492"
      },
      {
         "Id" : 89,
         "Nombre" : "Pate Changuito",
         "Descripcion" : "1 Unidades",
-        "Precio" : 28,
+        "Precio" : 26,
         "PrecioBase" : 22,
         "Imagen" : "https://www.lacoopeencasa.coop/media/lcec/publico/articulos/0/6/d/06dda324221d178a30601e195dd28492"
      },
@@ -128,7 +128,7 @@
         "Imagen" : "https://sc04.alicdn.com/kf/Ac3739a620e5641ba9a4296136dfabb68I.jpg"
      },
      {
-        "Id" : 99,
+        "Id" : 919,
         "Nombre" : "Bic Mediano",
         "Descripcion" : "1 Unidad",
         "Precio" : 25,
@@ -200,19 +200,27 @@
         "Imagen" : "https://f.fcdn.app/imgs/8198c8/cleanway.com.uy/clewuy/6a3c/original/catalogo/69848-69848_1/1920-1200/desodorante-odorono-rexona-60-gr-desodorante-odorono-rexona-60-gr.jpg"
      },
      {
-        "Id" : 39,
-        "Nombre" : "Javones Dove",
+        "Id" : 100,
+        "Nombre" : "Jabones Dove",
         "Descripcion" : "6 Unidades - 40$c/u",
         "Precio" : 240,
         "PrecioBase" : 220,
         "Imagen" : "https://farmapalacio.com/wp-content/uploads/2020/05/7891150044616-7.jpg"
      },
      {
+        "Id" : 39,
+        "Nombre" : "Jabones Plusbelle",
+        "Descripcion" : "6 Unidades - 40$c/u",
+        "Precio" : 35,
+        "PrecioBase" : 25,
+        "Imagen" : "https://f.fcdn.app/imgs/cfcfb9/www.distribuidoradelacosta.com.uy/dicouy/f703/original/catalogo/17-86117-8611/600x780/jabon-de-tocador-plusbelle-nutrioil-125g-jabon-de-tocador-plusbelle-nutrioil-125g.jpg"
+     },
+     {
         "Id" : 4,
         "Nombre" : "Omeoprazol",
         "Descripcion" : "30 Capsulas - 5$c/u",
-        "Precio" : 150,
-        "PrecioBase" : 100,
+        "Precio" : 130,
+        "PrecioBase" : 80,
         "Imagen" : "https://pigalle.com.uy/images/thumbs/0025975_1b5b57b60103fc536b1f72c78829d216b5de8b3d8f36b144ef37256a21db9e37_600.jpeg"
      },
      {
@@ -233,7 +241,7 @@
      },
      {
         "Id" : 7,
-        "Nombre" : "Paracetamol",
+        "Nombre" : "Paracetamol 750mg",
         "Descripcion" : "20 Capsulas - 6$c/u",
         "Precio" : 120,
         "PrecioBase" : 90,
@@ -401,7 +409,7 @@
      },
      {
         "Id" : 24,
-        "Nombre" : "Aspirina-Blister",
+        "Nombre" : "Aspirina-Caja",
         "Descripcion" : "3 Blisters de 10 Unidades",
         "Precio" : 140,
         "PrecioBase" : 120,
@@ -414,6 +422,46 @@
         "Precio" : 50,
         "PrecioBase" : 40,
         "Imagen" : "https://www.aspirina.com.mx/sites/g/files/vrxlpx43166/files/styles/social_share/public/2022-11/Aspirina3.jpg?itok=icMl5Q80"
+     },
+     {
+        "Id" : 99,
+        "Nombre" : "Aspirineta-Caja",
+        "Descripcion" : "",
+        "Precio" : 160,
+        "PrecioBase" : 120,
+        "Imagen" : "https://f.fcdn.app/imgs/5c9214/farmaglam.com.uy/fglauy/36b5/original/catalogo/32022_32022_1/2000-2000/aspirinetas-x-98-comprimidos-aspirinetas-x-98-comprimidos.jpg"
+     },
+     {
+        "Id" : 98,
+        "Nombre" : "Aspirineta-Blister",
+        "Descripcion" : "",
+        "Precio" : 35,
+        "PrecioBase" : 20,
+        "Imagen" : "https://f.fcdn.app/imgs/5c9214/farmaglam.com.uy/fglauy/36b5/original/catalogo/32022_32022_1/2000-2000/aspirinetas-x-98-comprimidos-aspirinetas-x-98-comprimidos.jpg"
+     },
+     {
+        "Id" : 918,
+        "Nombre" : "Cardio-Aspirina",
+        "Descripcion" : "Blister",
+        "Precio" : 95,
+        "PrecioBase" : 20,
+        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/5/3/53164_001.jpg"
+     },
+     {
+        "Id" : 97,
+        "Nombre" : "Toxilar",
+        "Descripcion" : "",
+        "Precio" : 220,
+        "PrecioBase" : 190,
+        "Imagen" : "https://f.fcdn.app/imgs/c5196f/eltunel.com.uy/tuneuy/0213/original/catalogo/01710127-01710127_1/1920-1200/tosilar-100-ml-tosilar-100-ml.jpg"
+     },
+     {
+        "Id" : 96,
+        "Nombre" : "HederTos",
+        "Descripcion" : "",
+        "Precio" : 160,
+        "PrecioBase" : 50,
+        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/4/7/47926_10.jpg"
      },
      {
         "Id" : 25,
@@ -438,6 +486,14 @@
         "Precio" : 110,
         "PrecioBase" : 80,
         "Imagen" : "https://f.fcdn.app/imgs/1e4b20/farmaglobal.com.uy/fagouy/8e5a/original/catalogo/54391543911/1920-1200/dolex-1000-mg-24-comprimidos-dolex-1000-mg-24-comprimidos.jpg"
+     },
+     {
+        "Id" : 95,
+        "Nombre" : "Dolex Grip",
+        "Descripcion" : "Comprimidos",
+        "Precio" : 100,
+        "PrecioBase" : 80,
+        "Imagen" : "https://vanthoff24.com/wp-content/uploads/2022/06/dolex-grip-x8-comprimidos-vanthoff.jpg"
      },
      {
         "Id" : 27,
@@ -480,28 +536,20 @@
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/7/7/77398_10.jpg"
      },
      {
-        "Id" : 59,
-        "Nombre" : "Tabcin",
-        "Descripcion" : "8 Unidades",
-        "Precio" : 220,
-        "PrecioBase" : 190,
-        "Imagen" : "https://res.cloudinary.com/prixz/image/upload/d_default_product_txh9zg.svg,w_500,q_auto/items/7501008485033.jpg"
-     },
-     {
-        "Id" : 40,
-        "Nombre" : "GIF - Cigarrillo",
-        "Descripcion" : "",
-        "Precio" : 500,
-        "PrecioBase" : 440,
-        "Imagen" : "https://sumerlabs.com/sumer-app-90b8f.appspot.com/product_photos%2Fff763a31fb19202fe59178a8f4c49bd4%2Fc5aca300-5c4f-11ec-b39e-5f256493409d?alt=media&token=bf8356b3-1529-400e-bfa9-c0f423e7a5e5"
-     },
-     {
         "Id" : 81,
         "Nombre" : "Caña Boa D+",
-        "Descripcion" : "Fardo x 12 - 62,5$ c/u",
-        "Precio" : 750,
-        "PrecioBase" : 520,
+        "Descripcion" : "Fardo x 12 - 60$ c/u",
+        "Precio" : 720,
+        "PrecioBase" : 620,
         "Imagen" : "https://www.stock.com.py/images/thumbs/0185536.jpeg"
+     },
+     {
+        "Id" : 101,
+        "Nombre" : "Prudence Presrvativos",
+        "Descripcion" : "3 Unidades",
+        "Precio" : 50,
+        "PrecioBase" : 35,
+        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/7/7/778957_10.jpg"
      },
      {
         "Id" : 82,
@@ -512,8 +560,16 @@
         "Imagen" : "https://www.stock.com.py/images/thumbs/0185536.jpeg"
      },
      {
+        "Id" : 40,
+        "Nombre" : "GIF",
+        "Descripcion" : "",
+        "Precio" : 500,
+        "PrecioBase" : 440,
+        "Imagen" : "https://sumerlabs.com/sumer-app-90b8f.appspot.com/product_photos%2Fff763a31fb19202fe59178a8f4c49bd4%2Fc5aca300-5c4f-11ec-b39e-5f256493409d?alt=media&token=bf8356b3-1529-400e-bfa9-c0f423e7a5e5"
+     },
+     {
         "Id" : 41,
-        "Nombre" : "GIF - Medio Carton",
+        "Nombre" : "GIF - 1/2 Carton",
         "Descripcion" : "",
         "Precio" : 270,
         "PrecioBase" : 220,
@@ -521,15 +577,15 @@
      },
      {
         "Id" : 42,
-        "Nombre" : "51 - Cigarillos",
+        "Nombre" : "51",
         "Descripcion" : "",
-        "Precio" : 380,
+        "Precio" : 350,
         "PrecioBase" : 330,
         "Imagen" : "https://cdn.elobservador.com.uy/102018/1539197638236/_CDS7971.JPG"
      },
      {
         "Id" : 43,
-        "Nombre" : "Coronado - Cigarillos",
+        "Nombre" : "Coronado",
         "Descripcion" : "",
         "Precio" : 1200,
         "PrecioBase" : 1000,
@@ -537,7 +593,7 @@
      },
      {
         "Id" : 44,
-        "Nombre" : "Coronado - Medio Carton",
+        "Nombre" : "1/2 Carton",
         "Descripcion" : "",
         "Precio" : 650,
         "PrecioBase" : 500,
