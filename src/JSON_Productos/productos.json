@@ -6,15 +6,31 @@
        "Precio" : 560,
        "PrecioBase" : 480,
        "Imagen" : "https://x9a8e6b9.stackpathcdn.com/media/cache/attachment/filter/product_gallery_main/60241f1507e89324a00c97b87b841eb0/50191/6117ba993dd9b511271104.png"
+    }, 
+    {
+      "Id" : 92,
+       "Nombre" : "Colgate 180gr",
+       "Descripcion" : "12 Unidades - 80$c/u",
+       "Precio" : 960,
+       "PrecioBase" : 870,
+       "Imagen" : "https://x9a8e6b9.stackpathcdn.com/media/cache/attachment/filter/product_gallery_main/60241f1507e89324a00c97b87b841eb0/50191/6117ba993dd9b511271104.png"
     },
     {
         "Id" : 2,
         "Nombre" : "Tiras Pantene",
         "Descripcion" : "Shampoo y Acondicionador",
-        "Precio" : 120,
+        "Precio" : 130,
         "PrecioBase" : 100,
         "Imagen" : "https://www.distribuidorafederico.com/products/images/phpircbc6.jpg"
      },
+     {
+         "Id" : 2,
+         "Nombre" : "Sedal",
+         "Descripcion" : "Shampoo y Acondicionador",
+         "Precio" : 150,
+         "PrecioBase" : 100,
+         "Imagen" : "https://c7b731124f61bfe49c1c-046e52b600705c647fc3a548ced841a1.ssl.cf2.rackcdn.com/1198total_expand.jpg"
+      },
      {
         "Id" : 3,
         "Nombre" : "Jugos Rinde 2",
@@ -81,6 +97,14 @@
      },
      {
       "Id" : 74,
+      "Nombre" : "Mayonesa Uruguay",
+      "Descripcion" : "20 Unidades - 21$c/u",
+      "Precio" : 420,
+      "PrecioBase" : 380,
+      "Imagen" : "data:image/jpeg;base64,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"
+   },
+     {
+      "Id" : 74,
       "Nombre" : "Pacoquita",
       "Descripcion" : "50 Unidades - 5,6$c/u",
       "Precio" : 280,
@@ -142,6 +166,14 @@
         "Precio" : 150,
         "PrecioBase" : 120,
         "Imagen" : "https://f.fcdn.app/imgs/38d9cb/suchinasa.com/suchuy/55e0/original/catalogo/19185_19187_1/2000-2000/caldo-apti-x24-unidades-costilla.jpg"
+     },
+     {
+        "Id" : 106,
+        "Nombre" : "Funda 10kg Sal",
+        "Descripcion" : "10 Unidades - 38$c/u",
+        "Precio" : 380,
+        "PrecioBase" : 240,
+        "Imagen" : "https://extrem.com.uy/wp-content/uploads/2020/11/SAL.jpg"
      },
      {
         "Id" : 32,
@@ -536,20 +568,20 @@
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/7/7/77398_10.jpg"
      },
      {
-        "Id" : 81,
-        "Nombre" : "Caña Boa D+",
-        "Descripcion" : "Fardo x 12 - 60$ c/u",
-        "Precio" : 720,
-        "PrecioBase" : 620,
-        "Imagen" : "https://www.stock.com.py/images/thumbs/0185536.jpeg"
-     },
-     {
         "Id" : 101,
         "Nombre" : "Prudence Presrvativos",
         "Descripcion" : "3 Unidades",
         "Precio" : 50,
         "PrecioBase" : 35,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/7/7/778957_10.jpg"
+     },
+     {
+        "Id" : 81,
+        "Nombre" : "Caña Boa D+",
+        "Descripcion" : "Fardo x 12 - 60$ c/u",
+        "Precio" : 720,
+        "PrecioBase" : 620,
+        "Imagen" : "https://www.stock.com.py/images/thumbs/0185536.jpeg"
      },
      {
         "Id" : 82,
