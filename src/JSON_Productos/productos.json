@@ -2,7 +2,7 @@
     {
       "Id" : 1,
        "Nombre" : "Colgate 90gr",
-       "Descripcion" : "12 Unidades - 47$c/u",
+       "Descripcion" : "12 Unidades - 46,6$c/u",
        "Precio" : 560,
        "PrecioBase" : 480,
        "Imagen" : "https://x9a8e6b9.stackpathcdn.com/media/cache/attachment/filter/product_gallery_main/60241f1507e89324a00c97b87b841eb0/50191/6117ba993dd9b511271104.png"
@@ -114,9 +114,9 @@
    {
       "Id" : 76,
       "Nombre" : "Pacoca",
-      "Descripcion" : "50 Unidades - 4$c/u",
-      "Precio" : 200,
-      "PrecioBase" : 180,
+      "Descripcion" : "50 Unidades - 4,4$c/u",
+      "Precio" : 220,
+      "PrecioBase" : 170,
       "Imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7KjeJFpYBP54YOWLctw3iwv-7LnAqHhQ6woSnlIhfMpBxC_164B20magbiArRSIyRU8&usqp=CAU"
    },
      {
@@ -155,7 +155,7 @@
         "Id" : 919,
         "Nombre" : "Bic Mediano",
         "Descripcion" : "1 Unidad",
-        "Precio" : 25,
+        "Precio" : 20,
         "PrecioBase" : 18,
         "Imagen" : "https://ferreteriavidri.com/images/items/large/72701.jpg"
      },
@@ -196,7 +196,7 @@
         "Nombre" : "Eccole",
         "Descripcion" : "6 Unidades - 110$c/u",
         "Precio" : 660,
-        "PrecioBase" : 600,
+        "PrecioBase" : 580,
         "Imagen" : "https://f.fcdn.app/imgs/6985b9/www.drogueriapaysandu.com.uy/dpayuy/459d/original/catalogo/01014570_01014570_1/2000-2000/adhesivo-para-zapatos-eccole-9-g-adhesivo-para-zapatos-eccole-9-g.jpg"
      },
      {
@@ -204,7 +204,7 @@
         "Nombre" : "Desodorante Rexona",
         "Descripcion" : "",
         "Precio" : 90,
-        "PrecioBase" : 80,
+        "PrecioBase" : 75,
         "Imagen" : "https://f.fcdn.app/imgs/d807c4/coraluy.com/corauy/0d70/original/catalogo/4444414444411/2000-2000/desodorante-rexona-aerosol-men-sensitive-150-ml-desodorante-rexona-aerosol-men-sensitive-150-ml.jpg"
      },
      {
@@ -220,7 +220,7 @@
         "Nombre" : "Desodorante Axe",
         "Descripcion" : "",
         "Precio" : 90,
-        "PrecioBase" : 80,
+        "PrecioBase" : 75,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/7/2/72718-1.jpg"
      },
      {
@@ -355,7 +355,7 @@
         "Id" : 18,
         "Nombre" : "Uvasal-Caja",
         "Descripcion" : "15 Sobres Dobles - 20$c/u",
-        "Precio" : 300,
+        "Precio" : 280,
         "PrecioBase" : 200,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/3/53827_10.jpg"
      },
@@ -363,7 +363,7 @@
         "Id" : 19,
         "Nombre" : "Uvasal-Sobre",
         "Descripcion" : "Sobre Doble",
-        "Precio" : 24,
+        "Precio" : 20,
         "PrecioBase" : 14,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/3/53827_10.jpg"
      },
@@ -578,17 +578,17 @@
      {
         "Id" : 81,
         "Nombre" : "Caña Boa D+",
-        "Descripcion" : "Fardo x 12 - 60$ c/u",
-        "Precio" : 720,
-        "PrecioBase" : 620,
+        "Descripcion" : "Fardo x 12 - 58,3$ c/u",
+        "Precio" : 700,
+        "PrecioBase" : 600,
         "Imagen" : "https://www.stock.com.py/images/thumbs/0185536.jpeg"
      },
      {
         "Id" : 82,
         "Nombre" : "Caña Boa D+",
         "Descripcion" : "1 Unidad",
-        "Precio" : 65,
-        "PrecioBase" : 52,
+        "Precio" : 60,
+        "PrecioBase" : 50,
         "Imagen" : "https://www.stock.com.py/images/thumbs/0185536.jpeg"
      },
      {
