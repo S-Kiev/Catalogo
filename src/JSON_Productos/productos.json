@@ -475,8 +475,8 @@
         "Id" : 918,
         "Nombre" : "Cardio-Aspirina",
         "Descripcion" : "Blister",
-        "Precio" : 95,
-        "PrecioBase" : 20,
+        "Precio" : 100,
+        "PrecioBase" : 80,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/5/3/53164_001.jpg"
      },
      {
@@ -531,8 +531,8 @@
         "Id" : 27,
         "Nombre" : "Sertal",
         "Descripcion" : "10 Unidades",
-        "Precio" : 130,
-        "PrecioBase" : 100,
+        "Precio" : 135,
+        "PrecioBase" : 105,
         "Imagen" : "https://www.sertal.com.ar/sites/default/files/WEB-SERTAL_1.jpg"
      },
      {
