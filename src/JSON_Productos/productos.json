@@ -168,6 +168,14 @@
         "Imagen" : "https://f.fcdn.app/imgs/38d9cb/suchinasa.com/suchuy/55e0/original/catalogo/19185_19187_1/2000-2000/caldo-apti-x24-unidades-costilla.jpg"
      },
      {
+        "Id" : 156,
+        "Nombre" : "Pimenton Apti",
+        "Descripcion" : "1kg",
+        "Precio" : 140,
+        "PrecioBase" : 120,
+        "Imagen" : "https://sumerlabs.com/sumer-app-90b8f.appspot.com/product_photos%2Febaabd98e079658982fd36e640ffc257%2Fe967afb0-763a-11ec-8ded-a90df8430c80?alt=media&token=43bea608-9e1f-409c-8e00-c5952a57a660"
+     },
+     {
         "Id" : 106,
         "Nombre" : "Funda 10kg Sal",
         "Descripcion" : "10 Unidades - 38$c/u",
@@ -294,6 +302,14 @@
         "Precio" : 75,
         "PrecioBase" : 50,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/i/m/image-20230223-010721.jpg"
+     },
+     {
+        "Id" : 109,
+        "Nombre" : "Moxifar 750",
+        "Descripcion" : "8 Capsulas",
+        "Precio" : 185,
+        "PrecioBase" : 165,
+        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/3/9/39730_10.jpg"
      },
      {
         "Id" : 10,
