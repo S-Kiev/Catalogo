@@ -93,9 +93,18 @@
   color: white;
 }
 
+.card button.calcular {
+  touch-action: manipulation;
+}
+
+
 .card button.resetear {
   background-color: #dd2b22;
   color: white;
+}
+
+.card button.resetear {
+  touch-action: manipulation;
 }
 
 

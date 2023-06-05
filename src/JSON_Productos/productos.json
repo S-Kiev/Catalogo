@@ -16,7 +16,7 @@
        "Imagen" : "https://x9a8e6b9.stackpathcdn.com/media/cache/attachment/filter/product_gallery_main/60241f1507e89324a00c97b87b841eb0/50191/6117ba993dd9b511271104.png"
     },
     {
-        "Id" : 2,
+        "Id" : 202,
         "Nombre" : "Tiras Pantene",
         "Descripcion" : "Shampoo y Acondicionador",
         "Precio" : 140,
@@ -82,7 +82,7 @@
      {
         "Id" : 67,
         "Nombre" : "Ketchup Hellmann's",
-        "Descripcion" : "30 Unidades - 18$c/u",
+        "Descripcion" : "30 Unidades - 20$c/u",
         "Precio" : 600,
         "PrecioBase" : 550,
         "Imagen" : "https://assets.vtex.app/unsafe/660x660/center/middle/https%3A%2F%2Ftatauy.vtexassets.com%2Farquivos%2Fids%2F527567%2FAderezo-Ketchup-HELLMAN-S-Sachet-60-G-1-3281.jpg%3Fv%3D1769965405"
@@ -96,13 +96,21 @@
         "Imagen" : "https://assets.vtex.app/unsafe/660x660/center/middle/https%3A%2F%2Ftatauy.vtexassets.com%2Farquivos%2Fids%2F527567%2FAderezo-Ketchup-HELLMAN-S-Sachet-60-G-1-3281.jpg%3Fv%3D1769965405"
      },
      {
-      "Id" : 74,
+      "Id" : 174,
       "Nombre" : "Mayonesa Uruguay",
       "Descripcion" : "20 Unidades - 21$c/u",
       "Precio" : 420,
       "PrecioBase" : 380,
-      "Imagen" : "data:image/jpeg;base64,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"
+      "Imagen" : "https://mediato.com.uy/imagenes/img_contenido/productos/a/953CO.jpg"
    },
+   {
+    "Id" : 274,
+    "Nombre" : "Uruguay 1/2Kg",
+    "Descripcion" : "",
+    "Precio" : 95,
+    "PrecioBase" : 75,
+    "Imagen" : "https://tumayorista.uy/wp-content/uploads/mayonesa-uruguay-x500-gramos.jpg"
+ },
      {
       "Id" : 74,
       "Nombre" : "Pacoquita",
@@ -192,6 +200,14 @@
         "Imagen" : "https://maxikiosco546.com.uy/wp-content/uploads/2021/05/menta_fuerte__01503.1615919947.png"
      },
      {
+        "Id" : 108,
+        "Nombre" : "Pastilla FreeGells",
+        "Descripcion" : "Azul y Negro",
+        "Precio" : 95,
+        "PrecioBase" : 64,
+        "Imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuitd1fqmTa0lyKV4_L1jQac3dBRMUXTlSX6TD4EB0UVD6WDJYrZpcTGPGTrsiPfHYn2U&usqp=CAU"
+     },
+     {
         "Id" : 33,
         "Nombre" : "Gotita",
         "Descripcion" : "6 Unidades - 41,6$ c/u",
@@ -250,10 +266,26 @@
      {
         "Id" : 39,
         "Nombre" : "Plusbelle",
-        "Descripcion" : "6 Unidades - 40$c/u",
+        "Descripcion" : "6 Unidades - 30$c/u",
         "Precio" : 35,
         "PrecioBase" : 25,
         "Imagen" : "https://f.fcdn.app/imgs/cfcfb9/www.distribuidoradelacosta.com.uy/dicouy/f703/original/catalogo/17-86117-8611/600x780/jabon-de-tocador-plusbelle-nutrioil-125g-jabon-de-tocador-plusbelle-nutrioil-125g.jpg"
+     },
+     {
+        "Id" : 139,
+        "Nombre" : "Iara",
+        "Descripcion" : "12 Unidades - 19,16$c/u",
+        "Precio" : 230,
+        "PrecioBase" : 25,
+        "Imagen" : "https://f.fcdn.app/imgs/e8b35c/www.elclon.com.uy/clonuy/2959/original/catalogo/12998-1/460_460/jabon-de-tocador-iara-petalos-y-rosa-90-gr-jabon-de-tocador-iara-petalos-y-rosa-90-gr.jpg"
+     },
+     {
+        "Id" : 140,
+        "Nombre" : "Iara",
+        "Descripcion" : "",
+        "Precio" : 22,
+        "PrecioBase" : 15,
+        "Imagen" : "https://f.fcdn.app/imgs/e8b35c/www.elclon.com.uy/clonuy/2959/original/catalogo/12998-1/460_460/jabon-de-tocador-iara-petalos-y-rosa-90-gr-jabon-de-tocador-iara-petalos-y-rosa-90-gr.jpg"
      },
      {
         "Id" : 4,
@@ -301,7 +333,7 @@
         "Descripcion" : "8 Capsulas",
         "Precio" : 75,
         "PrecioBase" : 50,
-        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/i/m/image-20230223-010721.jpg"
+        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/1/7/17881_1.jpg"
      },
      {
         "Id" : 109,
@@ -587,7 +619,7 @@
         "Id" : 101,
         "Nombre" : "Prudence Presrvativos",
         "Descripcion" : "3 Unidades",
-        "Precio" : 50,
+        "Precio" : 40,
         "PrecioBase" : 35,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/7/7/778957_10.jpg"
      },

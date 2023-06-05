@@ -58,6 +58,7 @@ const Card = React.forwardRef((props, ref) => {
 
 
   const establecerPrecioVenta = (event) => {
+    event.preventDefault();
     const precio = parseFloat(event.target.value);
     setPrecioVenta(precio);
   };
