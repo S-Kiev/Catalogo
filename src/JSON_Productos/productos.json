@@ -346,15 +346,7 @@
      {
         "Id" : 10,
         "Nombre" : "Actron Plus",
-        "Descripcion" : "2 Blisters de 8 Capsulas",
-        "Precio" : 200,
-        "PrecioBase" : 160,
-        "Imagen" : "https://cdn.batitienda.com/baticloud/images/product_picture_0608aa1569b44a06a530725e260e86a2_637873448279310133_0_m.jpg"
-     },
-     {
-        "Id" : 11,
-        "Nombre" : "Blister",
-        "Descripcion" : "8 Capsulas",
+        "Descripcion" : "1 Blister de 8 Capsulas",
         "Precio" : 110,
         "PrecioBase" : 80,
         "Imagen" : "https://cdn.batitienda.com/baticloud/images/product_picture_0608aa1569b44a06a530725e260e86a2_637873448279310133_0_m.jpg"
@@ -411,7 +403,7 @@
         "Id" : 19,
         "Nombre" : "Uvasal-Sobre",
         "Descripcion" : "Sobre Doble",
-        "Precio" : 20,
+        "Precio" : 18,
         "PrecioBase" : 14,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/3/53827_10.jpg"
      },
@@ -427,7 +419,7 @@
         "Id" : 21,
         "Nombre" : "Alikal-Sobre",
         "Descripcion" : "",
-        "Precio" : 20,
+        "Precio" : 18,
         "PrecioBase" : 13,
         "Imagen" : "data:image/jpeg;base64,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"
      },
@@ -435,7 +427,7 @@
         "Id" : 22,
         "Nombre" : "Perifar Flex",
         "Descripcion" : "8 Unidades",
-        "Precio" : 120,
+        "Precio" : 125,
         "PrecioBase" : 96,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/1/6/16454_10.jpg"
      },
@@ -443,7 +435,7 @@
         "Id" : 23,
         "Nombre" : "Perifar Migra",
         "Descripcion" : "8 Unidades",
-        "Precio" : 150,
+        "Precio" : 155,
         "PrecioBase" : 124,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/1/1/11928_10.jpg"
      },
@@ -451,7 +443,7 @@
         "Id" : 49,
         "Nombre" : "Perifar Infantil",
         "Descripcion" : "8 Unidades",
-        "Precio" : 95,
+        "Precio" : 100,
         "PrecioBase" : 73,
         "Imagen" : "data:image/jpeg;base64,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"
      },
@@ -459,7 +451,7 @@
         "Id" : 50,
         "Nombre" : "Perifar Grip",
         "Descripcion" : "8 Unidades",
-        "Precio" : 130,
+        "Precio" : 135,
         "PrecioBase" : 102,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/3/1/319459.jpg"
      },
@@ -467,7 +459,7 @@
         "Id" : 51,
         "Nombre" : "Perifar 400",
         "Descripcion" : "8 Unidades",
-        "Precio" : 75,
+        "Precio" : 80,
         "PrecioBase" : 54,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/2/52902_10.jpg"
      },
@@ -475,7 +467,7 @@
         "Id" : 52,
         "Nombre" : "Perifar 600",
         "Descripcion" : "8 Unidades",
-        "Precio" : 100,
+        "Precio" : 110,
         "PrecioBase" : 77,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/1/51000_10.jpg"
      },
@@ -489,7 +481,7 @@
      },
      {
         "Id" : 24,
-        "Nombre" : "Aspirina-Caja",
+        "Nombre" : " Baya-Aspirina-Caja",
         "Descripcion" : "3 Blisters de 10 Unidades",
         "Precio" : 140,
         "PrecioBase" : 120,
@@ -497,7 +489,7 @@
      },
      {
         "Id" : 70,
-        "Nombre" : "Aspirina-Blister",
+        "Nombre" : "Baya-Aspirina-Blister",
         "Descripcion" : "10 Unidades",
         "Precio" : 50,
         "PrecioBase" : 40,
@@ -523,7 +515,7 @@
         "Id" : 918,
         "Nombre" : "Cardio-Aspirina",
         "Descripcion" : "Blister",
-        "Precio" : 100,
+        "Precio" : 105,
         "PrecioBase" : 80,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/5/3/53164_001.jpg"
      },
@@ -531,7 +523,7 @@
         "Id" : 97,
         "Nombre" : "Toxilar",
         "Descripcion" : "",
-        "Precio" : 220,
+        "Precio" : 225,
         "PrecioBase" : 190,
         "Imagen" : "https://f.fcdn.app/imgs/c5196f/eltunel.com.uy/tuneuy/0213/original/catalogo/01710127-01710127_1/1920-1200/tosilar-100-ml-tosilar-100-ml.jpg"
      },
@@ -563,7 +555,7 @@
         "Id" : 72,
         "Nombre" : "Dolex 1000",
         "Descripcion" : "8 Unidades",
-        "Precio" : 110,
+        "Precio" : 120,
         "PrecioBase" : 80,
         "Imagen" : "https://f.fcdn.app/imgs/1e4b20/farmaglobal.com.uy/fagouy/8e5a/original/catalogo/54391543911/1920-1200/dolex-1000-mg-24-comprimidos-dolex-1000-mg-24-comprimidos.jpg"
      },
@@ -571,7 +563,7 @@
         "Id" : 95,
         "Nombre" : "Dolex Grip",
         "Descripcion" : "Comprimidos",
-        "Precio" : 100,
+        "Precio" : 105,
         "PrecioBase" : 80,
         "Imagen" : "https://vanthoff24.com/wp-content/uploads/2022/06/dolex-grip-x8-comprimidos-vanthoff.jpg"
      },
@@ -579,7 +571,7 @@
         "Id" : 27,
         "Nombre" : "Sertal",
         "Descripcion" : "10 Unidades",
-        "Precio" : 135,
+        "Precio" : 130,
         "PrecioBase" : 105,
         "Imagen" : "https://www.sertal.com.ar/sites/default/files/WEB-SERTAL_1.jpg"
      },
@@ -587,7 +579,7 @@
         "Id" : 28,
         "Nombre" : "ACF4",
         "Descripcion" : "8 Unidades",
-        "Precio" : 130,
+        "Precio" : 135,
         "PrecioBase" : 98,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/2/9/29978_10_1.jpg"
      },
@@ -595,7 +587,7 @@
         "Id" : 29,
         "Nombre" : "Novemina",
         "Descripcion" : "8 Unidades",
-        "Precio" : 80,
+        "Precio" : 85,
         "PrecioBase" : 56,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/1/51597_10.jpg"
      },
@@ -603,7 +595,7 @@
         "Id" : 54,
         "Nombre" : "Web-C",
         "Descripcion" : "5 Unidades",
-        "Precio" : 120,
+        "Precio" : 130,
         "PrecioBase" : 94,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/c385976bc54d78dff661f3a8d562b253/8/9/89115_10.jpg"
      },
@@ -611,7 +603,7 @@
         "Id" : 55,
         "Nombre" : "Web-C Comprimidos",
         "Descripcion" : "8 Unidades",
-        "Precio" : 90,
+        "Precio" : 95,
         "PrecioBase" : 62,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/7/7/77398_10.jpg"
      },
@@ -642,24 +634,24 @@
      {
         "Id" : 40,
         "Nombre" : "GIF",
-        "Descripcion" : "",
-        "Precio" : 500,
-        "PrecioBase" : 440,
+        "Descripcion" : "3 por 480$c/u",
+        "Precio" : 490,
+        "PrecioBase" : 430,
         "Imagen" : "https://sumerlabs.com/sumer-app-90b8f.appspot.com/product_photos%2Fff763a31fb19202fe59178a8f4c49bd4%2Fc5aca300-5c4f-11ec-b39e-5f256493409d?alt=media&token=bf8356b3-1529-400e-bfa9-c0f423e7a5e5"
      },
      {
         "Id" : 41,
         "Nombre" : "GIF - 1/2 Carton",
         "Descripcion" : "",
-        "Precio" : 270,
-        "PrecioBase" : 220,
+        "Precio" : 260,
+        "PrecioBase" : 215,
         "Imagen" : "https://sumerlabs.com/sumer-app-90b8f.appspot.com/product_photos%2Fff763a31fb19202fe59178a8f4c49bd4%2Fc5aca300-5c4f-11ec-b39e-5f256493409d?alt=media&token=bf8356b3-1529-400e-bfa9-c0f423e7a5e5"
      },
      {
         "Id" : 42,
         "Nombre" : "51",
-        "Descripcion" : "",
-        "Precio" : 350,
+        "Descripcion" : "3 por 320$c/u",
+        "Precio" : 330,
         "PrecioBase" : 330,
         "Imagen" : "https://cdn.elobservador.com.uy/102018/1539197638236/_CDS7971.JPG"
      },
