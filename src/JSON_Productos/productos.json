@@ -19,7 +19,7 @@
         "Id" : 202,
         "Nombre" : "Tiras Pantene",
         "Descripcion" : "Shampoo y Acondicionador",
-        "Precio" : 140,
+        "Precio" : 130,
         "PrecioBase" : 100,
         "Imagen" : "https://www.distribuidorafederico.com/products/images/phpircbc6.jpg"
      },
@@ -274,8 +274,8 @@
      {
         "Id" : 139,
         "Nombre" : "Iara",
-        "Descripcion" : "12 Unidades - 19,16$c/u",
-        "Precio" : 230,
+        "Descripcion" : "12 Unidades - 18,3$c/u",
+        "Precio" : 220,
         "PrecioBase" : 25,
         "Imagen" : "https://f.fcdn.app/imgs/e8b35c/www.elclon.com.uy/clonuy/2959/original/catalogo/12998-1/460_460/jabon-de-tocador-iara-petalos-y-rosa-90-gr-jabon-de-tocador-iara-petalos-y-rosa-90-gr.jpg"
      },
@@ -472,6 +472,14 @@
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/1/51000_10.jpg"
      },
      {
+        "Id" : 153,
+        "Nombre" : "Bucoangin N",
+        "Descripcion" : "9 Unidades - 15,5$c/u",
+        "Precio" : 140,
+        "PrecioBase" : 70,
+        "Imagen" : "https://www.biosintex24hs.com.ar/images/products/20cb6d1b-f88d-4599-a19f-49cb3e26d2e3_Bucoangin%20Estuche%20Limon%20derecha%20con%20blister.jpg"
+     },
+     {
         "Id" : 53,
         "Nombre" : "Ernex",
         "Descripcion" : "6 Unidades",
@@ -526,6 +534,14 @@
         "Precio" : 225,
         "PrecioBase" : 190,
         "Imagen" : "https://f.fcdn.app/imgs/c5196f/eltunel.com.uy/tuneuy/0213/original/catalogo/01710127-01710127_1/1920-1200/tosilar-100-ml-tosilar-100-ml.jpg"
+     },
+     {
+        "Id" : 197,
+        "Nombre" : "Mielitus",
+        "Descripcion" : "",
+        "Precio" : 70,
+        "PrecioBase" : 45,
+        "Imagen" : "https://www.bi3pharma.it/integratori/wp-content/uploads/2018/03/Miltuss-300x300.jpg"
      },
      {
         "Id" : 96,
@@ -590,6 +606,22 @@
         "Precio" : 85,
         "PrecioBase" : 56,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/1/51597_10.jpg"
+     },
+     {
+        "Id" : 254,
+        "Nombre" : "Baya-C Caja",
+        "Descripcion" : "24 Unidades 16,6$c/u",
+        "Precio" : 400,
+        "PrecioBase" : 94,
+        "Imagen" : "https://pedidosfarma.vtexassets.com/arquivos/ids/191927/7793640802532.jpg?v=637959169327270000"
+     },
+     {
+        "Id" : 354,
+        "Nombre" : "Baya-C",
+        "Descripcion" : "1 Unidad",
+        "Precio" : 18,
+        "PrecioBase" : 94,
+        "Imagen" : "https://pedidosfarma.vtexassets.com/arquivos/ids/191927/7793640802532.jpg?v=637959169327270000"
      },
      {
         "Id" : 54,
