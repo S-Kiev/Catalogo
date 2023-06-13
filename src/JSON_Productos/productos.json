@@ -185,9 +185,9 @@
      },
      {
         "Id" : 106,
-        "Nombre" : "Funda 10kg Sal",
-        "Descripcion" : "10 Unidades - 38$c/u",
-        "Precio" : 380,
+        "Nombre" : "Sal 1kg",
+        "Descripcion" : "",
+        "Precio" : 45,
         "PrecioBase" : 240,
         "Imagen" : "https://extrem.com.uy/wp-content/uploads/2020/11/SAL.jpg"
      },
@@ -211,7 +211,7 @@
         "Id" : 33,
         "Nombre" : "Gotita",
         "Descripcion" : "6 Unidades - 41,6$ c/u",
-        "Precio" : 250,
+        "Precio" : 280,
         "PrecioBase" : 210,
         "Imagen" : "https://f.fcdn.app/imgs/ba971b/www.drogueriapaysandu.com.uy/dpayuy/ce0c/original/catalogo/01012701_01012701_1/2000-2000/la-gotita-2-ml-la-gotita-2-ml.jpg"
      },
@@ -220,7 +220,7 @@
         "Nombre" : "Eccole",
         "Descripcion" : "6 Unidades - 110$c/u",
         "Precio" : 660,
-        "PrecioBase" : 580,
+        "PrecioBase" : 590,
         "Imagen" : "https://f.fcdn.app/imgs/6985b9/www.drogueriapaysandu.com.uy/dpayuy/459d/original/catalogo/01014570_01014570_1/2000-2000/adhesivo-para-zapatos-eccole-9-g-adhesivo-para-zapatos-eccole-9-g.jpg"
      },
      {
@@ -329,11 +329,19 @@
      },
      {
         "Id" : 9,
-        "Nombre" : "Amoxidal",
+        "Nombre" : "Amoxidal 500",
         "Descripcion" : "8 Capsulas",
         "Precio" : 75,
         "PrecioBase" : 50,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/1/7/17881_1.jpg"
+     },
+     {
+        "Id" : 119,
+        "Nombre" : "Amoxidal 750",
+        "Descripcion" : "1 blister de 10 capsulas",
+        "Precio" : 225,
+        "PrecioBase" : 50,
+        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/1/7/17882_1.jpg"
      },
      {
         "Id" : 109,
@@ -385,9 +393,17 @@
      },
      {
         "Id" : 16,
-        "Nombre" : "Diclofenac",
+        "Nombre" : "Diclofenac 500",
         "Descripcion" : "10 Capsulas",
         "Precio" : 80,
+        "PrecioBase" : 40,
+        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/4/54139_10.jpg"
+     },
+     {
+        "Id" : 116,
+        "Nombre" : "Diclofenac 750",
+        "Descripcion" : "15 Capsulas",
+        "Precio" : 90,
         "PrecioBase" : 40,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/4/54139_10.jpg"
      },
