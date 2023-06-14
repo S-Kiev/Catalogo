@@ -210,7 +210,7 @@
      {
         "Id" : 33,
         "Nombre" : "Gotita",
-        "Descripcion" : "6 Unidades - 41,6$ c/u",
+        "Descripcion" : "6 Unidades - 46,6$ c/u",
         "Precio" : 280,
         "PrecioBase" : 210,
         "Imagen" : "https://f.fcdn.app/imgs/ba971b/www.drogueriapaysandu.com.uy/dpayuy/ce0c/original/catalogo/01012701_01012701_1/2000-2000/la-gotita-2-ml-la-gotita-2-ml.jpg"
@@ -554,7 +554,7 @@
      {
         "Id" : 197,
         "Nombre" : "Mielitus",
-        "Descripcion" : "",
+        "Descripcion" : "Por 10 65$c/u",
         "Precio" : 70,
         "PrecioBase" : 45,
         "Imagen" : "https://www.bi3pharma.it/integratori/wp-content/uploads/2018/03/Miltuss-300x300.jpg"
@@ -665,9 +665,9 @@
      },
      {
         "Id" : 81,
-        "Nombre" : "Caña Boa D+",
-        "Descripcion" : "Fardo x 12 - 58,3$ c/u",
-        "Precio" : 700,
+        "Nombre" : "Fardo Caña",
+        "Descripcion" : "Fardo x 12 - 60$ c/u",
+        "Precio" : 720,
         "PrecioBase" : 600,
         "Imagen" : "https://www.stock.com.py/images/thumbs/0185536.jpeg"
      },
@@ -675,7 +675,7 @@
         "Id" : 82,
         "Nombre" : "Caña Boa D+",
         "Descripcion" : "1 Unidad",
-        "Precio" : 60,
+        "Precio" : 65,
         "PrecioBase" : 50,
         "Imagen" : "https://www.stock.com.py/images/thumbs/0185536.jpeg"
      },
