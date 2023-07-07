@@ -19,7 +19,7 @@
         "Id" : 202,
         "Nombre" : "Tiras Pantene",
         "Descripcion" : "Shampoo y Acondicionador",
-        "Precio" : 130,
+        "Precio" : 120,
         "PrecioBase" : 100,
         "Imagen" : "https://www.distribuidorafederico.com/products/images/phpircbc6.jpg"
      },
@@ -27,7 +27,7 @@
          "Id" : 2,
          "Nombre" : "Sedal",
          "Descripcion" : "Shampoo y Acondicionador",
-         "Precio" : 150,
+         "Precio" : 130,
          "PrecioBase" : 100,
          "Imagen" : "https://c7b731124f61bfe49c1c-046e52b600705c647fc3a548ced841a1.ssl.cf2.rackcdn.com/1198total_expand.jpg"
       },
@@ -43,7 +43,7 @@
         "Id" : 88,
         "Nombre" : "Pate Changuito",
         "Descripcion" : "24 Unidades - 25$c/u",
-        "Precio" : 580,
+        "Precio" : 600,
         "PrecioBase" : 500,
         "Imagen" : "https://www.lacoopeencasa.coop/media/lcec/publico/articulos/0/6/d/06dda324221d178a30601e195dd28492"
      },
@@ -60,6 +60,14 @@
         "Nombre" : "Conford",
         "Descripcion" : "12 Unidades - 27,5$c/u",
         "Precio" : 330,
+        "PrecioBase" : 300,
+        "Imagen" : "https://dojiw2m9tvv09.cloudfront.net/37792/product/8713180795.jpg"
+     },
+     {
+        "Id" : 177,
+        "Nombre" : "1/2 Conford",
+        "Descripcion" : "12 Unidades - 27,5$c/u",
+        "Precio" : 170,
         "PrecioBase" : 300,
         "Imagen" : "https://dojiw2m9tvv09.cloudfront.net/37792/product/8713180795.jpg"
      },
@@ -104,6 +112,22 @@
       "Imagen" : "https://mediato.com.uy/imagenes/img_contenido/productos/a/953CO.jpg"
    },
    {
+    "Id" : 1774,
+    "Nombre" : "Moztaza Savora",
+    "Descripcion" : "30 Unidades - 15$c/u",
+    "Precio" : 450,
+    "PrecioBase" : 380,
+    "Imagen" : "https://http2.mlstatic.com/D_NQ_NP_903746-MLU54964638158_042023-O.webp"
+ },
+ {
+  "Id" : 1794,
+  "Nombre" : "Moztaza Savora",
+  "Descripcion" : "1 Sobre - 16$c/u",
+  "Precio" : 450,
+  "PrecioBase" : 380,
+  "Imagen" : "https://tumayorista.uy/wp-content/uploads/1424_1.jpg"
+},
+   {
     "Id" : 274,
     "Nombre" : "Uruguay 1/2Kg",
     "Descripcion" : "",
@@ -122,8 +146,8 @@
    {
       "Id" : 76,
       "Nombre" : "Pacoca",
-      "Descripcion" : "50 Unidades - 4,4$c/u",
-      "Precio" : 220,
+      "Descripcion" : "50 Unidades - 4,6$c/u",
+      "Precio" : 230,
       "PrecioBase" : 170,
       "Imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7KjeJFpYBP54YOWLctw3iwv-7LnAqHhQ6woSnlIhfMpBxC_164B20magbiArRSIyRU8&usqp=CAU"
    },
@@ -155,7 +179,7 @@
         "Id" : 77,
         "Nombre" : "Bic Mediano",
         "Descripcion" : "50 Unidades - 19$c/u",
-        "Precio" : 925,
+        "Precio" : 870,
         "PrecioBase" : 360,
         "Imagen" : "https://sc04.alicdn.com/kf/Ac3739a620e5641ba9a4296136dfabb68I.jpg"
      },
@@ -179,9 +203,25 @@
         "Id" : 156,
         "Nombre" : "Pimenton Apti",
         "Descripcion" : "1kg",
-        "Precio" : 140,
+        "Precio" : 150,
         "PrecioBase" : 120,
         "Imagen" : "https://sumerlabs.com/sumer-app-90b8f.appspot.com/product_photos%2Febaabd98e079658982fd36e640ffc257%2Fe967afb0-763a-11ec-8ded-a90df8430c80?alt=media&token=43bea608-9e1f-409c-8e00-c5952a57a660"
+     },
+     {
+        "Id" : 1567,
+        "Nombre" : "Pulpa Tomate - Caja",
+        "Descripcion" : "27 Unidades",
+        "Precio" : 520,
+        "PrecioBase" : 120,
+        "Imagen" : "https://f.fcdn.app/imgs/cca3a9/suchinasa.com/suchuy/862a/original/catalogo/21855_21855_1/2000-2000/pulpa-de-tomate-big-choice-208ml-pulpa-de-tomate-big-choice-208ml.jpg"
+     },
+     {
+        "Id" : 1568,
+        "Nombre" : "Pulpa Tomate",
+        "Descripcion" : "Big C - 208gr",
+        "Precio" : 20,
+        "PrecioBase" : 120,
+        "Imagen" : "https://f.fcdn.app/imgs/cca3a9/suchinasa.com/suchuy/862a/original/catalogo/21855_21855_1/2000-2000/pulpa-de-tomate-big-choice-208ml-pulpa-de-tomate-big-choice-208ml.jpg"
      },
      {
         "Id" : 106,
@@ -203,7 +243,7 @@
         "Id" : 108,
         "Nombre" : "Pastilla FreeGells",
         "Descripcion" : "Azul y Negro",
-        "Precio" : 95,
+        "Precio" : 65,
         "PrecioBase" : 64,
         "Imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuitd1fqmTa0lyKV4_L1jQac3dBRMUXTlSX6TD4EB0UVD6WDJYrZpcTGPGTrsiPfHYn2U&usqp=CAU"
      },
@@ -274,8 +314,8 @@
      {
         "Id" : 139,
         "Nombre" : "Iara",
-        "Descripcion" : "12 Unidades - 18,3$c/u",
-        "Precio" : 220,
+        "Descripcion" : "12 Unidades - 15$c/u",
+        "Precio" : 180,
         "PrecioBase" : 25,
         "Imagen" : "https://f.fcdn.app/imgs/e8b35c/www.elclon.com.uy/clonuy/2959/original/catalogo/12998-1/460_460/jabon-de-tocador-iara-petalos-y-rosa-90-gr-jabon-de-tocador-iara-petalos-y-rosa-90-gr.jpg"
      },
@@ -291,7 +331,7 @@
         "Id" : 4,
         "Nombre" : "Omeoprazol",
         "Descripcion" : "30 Capsulas - 5$c/u",
-        "Precio" : 130,
+        "Precio" : 110,
         "PrecioBase" : 80,
         "Imagen" : "https://pigalle.com.uy/images/thumbs/0025975_1b5b57b60103fc536b1f72c78829d216b5de8b3d8f36b144ef37256a21db9e37_600.jpeg"
      },
@@ -571,7 +611,7 @@
         "Id" : 25,
         "Nombre" : "Dolex 500",
         "Descripcion" : "8 Unidades",
-        "Precio" : 65,
+        "Precio" : 70,
         "PrecioBase" : 50,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/1/7/17589_001.jpg"
      },
@@ -608,12 +648,20 @@
         "Imagen" : "https://www.sertal.com.ar/sites/default/files/WEB-SERTAL_1.jpg"
      },
      {
-        "Id" : 28,
+        "Id" : 2878,
         "Nombre" : "ACF4",
         "Descripcion" : "8 Unidades",
         "Precio" : 135,
         "PrecioBase" : 98,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/2/9/29978_10_1.jpg"
+     },
+     {
+        "Id" : 28,
+        "Nombre" : "ACF 500",
+        "Descripcion" : "8 Unidades",
+        "Precio" : 70,
+        "PrecioBase" : 98,
+        "Imagen" : "https://www.eurofarma.com.uy/storage/media/10102/6KyaMhzh2YszqBL43cy5punCr3UEonuydjoVjfJO.png"
      },
      {
         "Id" : 29,
@@ -648,12 +696,20 @@
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/c385976bc54d78dff661f3a8d562b253/8/9/89115_10.jpg"
      },
      {
-        "Id" : 55,
+        "Id" : 551,
         "Nombre" : "Web-C Comprimidos",
         "Descripcion" : "8 Unidades",
         "Precio" : 95,
         "PrecioBase" : 62,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/7/7/77398_10.jpg"
+     },
+     {
+        "Id" : 55,
+        "Nombre" : "Flodigrip",
+        "Descripcion" : "5 Unidades",
+        "Precio" : 140,
+        "PrecioBase" : 62,
+        "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/5/2/52942_0.jpg"
      },
      {
         "Id" : 101,
@@ -816,12 +872,28 @@
         "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P339192-1.jpg?20211127110024,Aperitivo-APEROL-750-ml-en-Tienda-Inglesa"
      },
      {
-        "Id" : 345,
+        "Id" : 3845,
         "Nombre" : "Campari",
         "Descripcion" : "Por Encargue",
         "Precio" : 340,
         "PrecioBase" : 500,
         "Imagen" : "https://sannicolasbebidas.uy/wp-content/uploads/2020/05/espirituosas-campari-750-ml-600x600.png"
+     },
+     {
+        "Id" : 345,
+        "Nombre" : "Tres Plumas",
+        "Descripcion" : "Por Encargue",
+        "Precio" : 300,
+        "PrecioBase" : 500,
+        "Imagen" : "https://geant.vteximg.com.br/arquivos/ids/201447-1000-1000/540046.jpg?v=636371804174630000"
+     },
+     {
+        "Id" : 5555,
+        "Nombre" : "Vino Sangre de Boi",
+        "Descripcion" : "Por Encargue",
+        "Precio" : 150,
+        "PrecioBase" : 500,
+        "Imagen" : "https://f.fcdn.app/imgs/812196/suchinasa.com/suchuy/a601/original/catalogo/25651_25651_1/1920-1200/vino-sangre-de-boi-750ml-tinto-suave-vino-sangre-de-boi-750ml-tinto-suave.jpg"
      },
      {
         "Id" : 346,

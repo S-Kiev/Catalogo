@@ -118,7 +118,7 @@ function App() {
   
 
 
- //  <BarcodeScanner recibirVenta={recibirVenta} productosVenta={ventas}/> 
+ // <BarcodeScanner recibirVenta={recibirVenta} productosVenta={ventas}/> 
 
 // <h1>Escriba su Mensaje</h1>
 // <textarea value={mensaje} onChange={handleMensajeChange}></textarea><br/>
@@ -127,8 +127,6 @@ function App() {
   return (
     <div className="App">
       <Buscador handleSearch={handleSearch}/>
-
-
 
       {
       ventaActual && (
