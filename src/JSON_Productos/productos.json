@@ -35,7 +35,7 @@
         "Id" : 3,
         "Nombre" : "Jugos Rinde 2",
         "Descripcion" : "Varios Sabores",
-        "Precio" : 190,
+        "Precio" : 185,
         "PrecioBase" : 170,
         "Imagen" : "https://americadist.com.ar/images/product_image/3308/0?fit=fill&w=1080&h=1080"
      },
@@ -75,23 +75,15 @@
         "Id" : 61,
         "Nombre" : "Mayonesa Hellmann's",
         "Descripcion" : "20 Unidades - 24$c/u",
-        "Precio" : 480,
+        "Precio" : 420,
         "PrecioBase" : 420,
-        "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P051782-1.jpg?20220930211951,Mayonesa-HELLMANN%27S-118-gr-en-Tienda-Inglesa"
-     },
-     {
-        "Id" : 75,
-        "Nombre" : "Paquete Hellmann's",
-        "Descripcion" : "1 Unidad",
-        "Precio" : 28,
-        "PrecioBase" : 21,
         "Imagen" : "https://prod-resize.tiendainglesa.com.uy/images/medium/P051782-1.jpg?20220930211951,Mayonesa-HELLMANN%27S-118-gr-en-Tienda-Inglesa"
      },
      {
         "Id" : 67,
         "Nombre" : "Ketchup Hellmann's",
-        "Descripcion" : "30 Unidades - 20$c/u",
-        "Precio" : 580,
+        "Descripcion" : "30 Unidades - 19$c/u",
+        "Precio" : 570,
         "PrecioBase" : 550,
         "Imagen" : "https://assets.vtex.app/unsafe/660x660/center/middle/https%3A%2F%2Ftatauy.vtexassets.com%2Farquivos%2Fids%2F527567%2FAderezo-Ketchup-HELLMAN-S-Sachet-60-G-1-3281.jpg%3Fv%3D1769965405"
      },
@@ -115,7 +107,7 @@
     "Id" : 1774,
     "Nombre" : "Moztaza Savora",
     "Descripcion" : "30 Unidades - 15$c/u",
-    "Precio" : 430,
+    "Precio" : 400,
     "PrecioBase" : 380,
     "Imagen" : "https://http2.mlstatic.com/D_NQ_NP_903746-MLU54964638158_042023-O.webp"
  },
@@ -123,7 +115,7 @@
   "Id" : 1794,
   "Nombre" : "Moztaza Savora",
   "Descripcion" : "1 Sobre - 16$c/u",
-  "Precio" : 16,
+  "Precio" : 15,
   "PrecioBase" : 380,
   "Imagen" : "https://tumayorista.uy/wp-content/uploads/1424_1.jpg"
 },
@@ -139,7 +131,7 @@
       "Id" : 76,
       "Nombre" : "Pacoca",
       "Descripcion" : "50 Unidades - 4,6$c/u",
-      "Precio" : 230,
+      "Precio" : 210,
       "PrecioBase" : 170,
       "Imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7KjeJFpYBP54YOWLctw3iwv-7LnAqHhQ6woSnlIhfMpBxC_164B20magbiArRSIyRU8&usqp=CAU"
    },
@@ -166,22 +158,6 @@
         "Precio" : 35,
         "PrecioBase" : 30,
         "Imagen" : "https://www.ketal.com.bo/image/cache/catalog/product/48031893-550x550.jpg"
-     },
-     {
-        "Id" : 77,
-        "Nombre" : "Bic Mediano",
-        "Descripcion" : "50 Unidades - 19$c/u",
-        "Precio" : 870,
-        "PrecioBase" : 360,
-        "Imagen" : "https://sc04.alicdn.com/kf/Ac3739a620e5641ba9a4296136dfabb68I.jpg"
-     },
-     {
-        "Id" : 919,
-        "Nombre" : "Bic Mediano",
-        "Descripcion" : "1 Unidad",
-        "Precio" : 18,
-        "PrecioBase" : 18,
-        "Imagen" : "https://ferreteriavidri.com/images/items/large/72701.jpg"
      },
      {
         "Id" : 56,
@@ -243,7 +219,7 @@
         "Id" : 35,
         "Nombre" : "Desodorante Rexona",
         "Descripcion" : "",
-        "Precio" : 90,
+        "Precio" : 85,
         "PrecioBase" : 75,
         "Imagen" : "https://f.fcdn.app/imgs/d807c4/coraluy.com/corauy/0d70/original/catalogo/4444414444411/2000-2000/desodorante-rexona-aerosol-men-sensitive-150-ml-desodorante-rexona-aerosol-men-sensitive-150-ml.jpg"
      },
@@ -251,7 +227,7 @@
         "Id" : 36,
         "Nombre" : "Desodorante Dove",
         "Descripcion" : "",
-        "Precio" : 90,
+        "Precio" : 85,
         "PrecioBase" : 75,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/1/51465_10.jpg"
      },
@@ -259,7 +235,7 @@
         "Id" : 37,
         "Nombre" : "Desodorante Axe",
         "Descripcion" : "",
-        "Precio" : 90,
+        "Precio" : 85,
         "PrecioBase" : 75,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/7/2/72718-1.jpg"
      },
@@ -280,28 +256,20 @@
         "Imagen" : "https://farmapalacio.com/wp-content/uploads/2020/05/7891150044616-7.jpg"
      },
      {
+        "Id" : 100,
+        "Nombre" : "Jabones Saute",
+        "Descripcion" : "6 Unidades - 40$c/u",
+        "Precio" : 210,
+        "PrecioBase" : 220,
+        "Imagen" : "https://sjdigital.vtexassets.com/arquivos/ids/195666-800-800?v=638248541400700000&width=800&height=800&aspect=true"
+     },
+     {
         "Id" : 39,
         "Nombre" : "Plusbelle",
         "Descripcion" : "6 Unidades - 30$c/u",
         "Precio" : 35,
         "PrecioBase" : 25,
         "Imagen" : "https://f.fcdn.app/imgs/cfcfb9/www.distribuidoradelacosta.com.uy/dicouy/f703/original/catalogo/17-86117-8611/600x780/jabon-de-tocador-plusbelle-nutrioil-125g-jabon-de-tocador-plusbelle-nutrioil-125g.jpg"
-     },
-     {
-        "Id" : 139,
-        "Nombre" : "Iara",
-        "Descripcion" : "12 Unidades - 15$c/u",
-        "Precio" : 180,
-        "PrecioBase" : 25,
-        "Imagen" : "https://f.fcdn.app/imgs/e8b35c/www.elclon.com.uy/clonuy/2959/original/catalogo/12998-1/460_460/jabon-de-tocador-iara-petalos-y-rosa-90-gr-jabon-de-tocador-iara-petalos-y-rosa-90-gr.jpg"
-     },
-     {
-        "Id" : 140,
-        "Nombre" : "Iara",
-        "Descripcion" : "",
-        "Precio" : 22,
-        "PrecioBase" : 15,
-        "Imagen" : "https://f.fcdn.app/imgs/e8b35c/www.elclon.com.uy/clonuy/2959/original/catalogo/12998-1/460_460/jabon-de-tocador-iara-petalos-y-rosa-90-gr-jabon-de-tocador-iara-petalos-y-rosa-90-gr.jpg"
      },
      {
         "Id" : 4,
@@ -328,18 +296,10 @@
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/5/3/53603_001.jpg"
      },
      {
-        "Id" : 7,
-        "Nombre" : "Paracetamol 750mg",
-        "Descripcion" : "20 Capsulas - 6$c/u",
-        "Precio" : 120,
-        "PrecioBase" : 90,
-        "Imagen" : "https://uploads.consultaremedios.com.br/product_variation_images/full/ea0f1b3285e2a50ecc4c484641e5720334133c9a.jpg?1661204338"
-     },
-     {
         "Id" : 8,
         "Nombre" : "Dorixina",
         "Descripcion" : "8 Capsulas",
-        "Precio" : 80,
+        "Precio" : 75,
         "PrecioBase" : 57,
         "Imagen" : "https://www.megalabs.com.uy/wp-content/uploads/2023/04/DORIXINA-125-mg.-x-10-comprimidos.jpg"
      },
@@ -451,7 +411,7 @@
         "Id" : 23,
         "Nombre" : "Perifar Migra",
         "Descripcion" : "8 Unidades",
-        "Precio" : 160,
+        "Precio" : 155,
         "PrecioBase" : 124,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/1/1/11928_10.jpg"
      },
@@ -459,7 +419,7 @@
         "Id" : 49,
         "Nombre" : "Perifar Infantil",
         "Descripcion" : "8 Unidades",
-        "Precio" : 105,
+        "Precio" : 100,
         "PrecioBase" : 73,
         "Imagen" : "data:image/jpeg;base64,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"
      },
@@ -467,7 +427,7 @@
         "Id" : 50,
         "Nombre" : "Perifar Grip",
         "Descripcion" : "8 Unidades",
-        "Precio" : 140,
+        "Precio" : 135,
         "PrecioBase" : 102,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/3/1/319459.jpg"
      },
@@ -475,7 +435,7 @@
         "Id" : 51,
         "Nombre" : "Perifar 400",
         "Descripcion" : "8 Unidades",
-        "Precio" : 85,
+        "Precio" : 80,
         "PrecioBase" : 54,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/2/52902_10.jpg"
      },
@@ -483,7 +443,7 @@
         "Id" : 52,
         "Nombre" : "Perifar 600",
         "Descripcion" : "8 Unidades",
-        "Precio" : 115,
+        "Precio" : 110,
         "PrecioBase" : 77,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/1/51000_10.jpg"
      },
@@ -539,7 +499,7 @@
         "Id" : 918,
         "Nombre" : "Cardio-Aspirina",
         "Descripcion" : "Blister",
-        "Precio" : 105,
+        "Precio" : 100,
         "PrecioBase" : 80,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/0e20c80905a2a59477fff66821f8704a/5/3/53164_001.jpg"
      },
@@ -547,7 +507,7 @@
         "Id" : 97,
         "Nombre" : "Toxilar",
         "Descripcion" : "",
-        "Precio" : 225,
+        "Precio" : 190,
         "PrecioBase" : 190,
         "Imagen" : "https://f.fcdn.app/imgs/c5196f/eltunel.com.uy/tuneuy/0213/original/catalogo/01710127-01710127_1/1920-1200/tosilar-100-ml-tosilar-100-ml.jpg"
      },
@@ -579,7 +539,7 @@
         "Id" : 26,
         "Nombre" : "Dolex 650",
         "Descripcion" : "8 Unidades",
-        "Precio" : 85,
+        "Precio" : 70,
         "PrecioBase" : 65,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/4/6/46505_10.jpg"
      },
@@ -587,7 +547,7 @@
         "Id" : 72,
         "Nombre" : "Dolex 1000",
         "Descripcion" : "8 Unidades",
-        "Precio" : 125,
+        "Precio" : 120,
         "PrecioBase" : 80,
         "Imagen" : "https://f.fcdn.app/imgs/1e4b20/farmaglobal.com.uy/fagouy/8e5a/original/catalogo/54391543911/1920-1200/dolex-1000-mg-24-comprimidos-dolex-1000-mg-24-comprimidos.jpg"
      },
@@ -595,7 +555,7 @@
         "Id" : 95,
         "Nombre" : "Dolex Grip",
         "Descripcion" : "Comprimidos",
-        "Precio" : 105,
+        "Precio" : 90,
         "PrecioBase" : 80,
         "Imagen" : "https://vanthoff24.com/wp-content/uploads/2022/06/dolex-grip-x8-comprimidos-vanthoff.jpg"
      },
@@ -627,7 +587,7 @@
         "Id" : 29,
         "Nombre" : "Novemina",
         "Descripcion" : "8 Unidades",
-        "Precio" : 85,
+        "Precio" : 80,
         "PrecioBase" : 56,
         "Imagen" : "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/509ffcfb512056e813c9070a614fbf77/5/1/51597_10.jpg"
      },
@@ -635,7 +595,7 @@
         "Id" : 254,
         "Nombre" : "Baya-C Caja",
         "Descripcion" : "24 Unidades 16,6$c/u",
-        "Precio" : 400,
+        "Precio" : 360,
         "PrecioBase" : 94,
         "Imagen" : "https://pedidosfarma.vtexassets.com/arquivos/ids/191927/7793640802532.jpg?v=637959169327270000"
      },
@@ -691,7 +651,7 @@
         "Id" : 82,
         "Nombre" : "Caña Boa D+",
         "Descripcion" : "1 Unidad",
-        "Precio" : 65,
+        "Precio" : 60,
         "PrecioBase" : 50,
         "Imagen" : "https://www.stock.com.py/images/thumbs/0185536.jpeg"
      },
@@ -714,8 +674,8 @@
      {
         "Id" : 42,
         "Nombre" : "51",
-        "Descripcion" : "3 por 300$c/u",
-        "Precio" : 310,
+        "Descripcion" : "3 por 290$c/u",
+        "Precio" : 300,
         "PrecioBase" : 330,
         "Imagen" : "https://cdn.elobservador.com.uy/102018/1539197638236/_CDS7971.JPG"
      },
